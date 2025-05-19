@@ -1,0 +1,834 @@
+{
+  "triple_blank_questions": [
+    {
+      "question": "The (i) ______ nature of the scientist’s findings, though initially met with (ii) ______, was ultimately (iii) ______ by peer-reviewed studies.",
+      "options_i": ["ambiguous", "paradoxical", "unassailable"],
+      "options_ii": ["acclaim", "skepticism", "indifference"],
+      "options_iii": ["debunked", "substantiated", "ignored"],
+      "answer_i": "paradoxical",
+      "answer_ii": "skepticism",
+      "answer_iii": "substantiated",
+      "explanation": "Findings that seem 'paradoxical' would invite 'skepticism' but could later be 'substantiated' (confirmed)."
+    },
+    {
+      "question": "Despite the CEO’s (i) ______ reputation for micromanagement, she (ii) ______ delegated authority during the crisis, demonstrating unexpected (iii) ______.",
+      "options_i": ["benign", "notorious", "laudable"],
+      "options_ii": ["reluctantly", "adroitly", "sparingly"],
+      "options_iii": ["rigidity", "adaptability", "incompetence"],
+      "answer_i": "notorious",
+      "answer_ii": "adroitly",
+      "answer_iii": "adaptability",
+      "explanation": "A 'notorious' (known for bad traits) micromanager who 'adroitly' (skillfully) delegates shows 'adaptability.'"
+    },
+    {
+      "question": "The historian’s (i) ______ analysis of the revolution, while (ii) ______ in its scope, was criticized for being (iii) ______ in its treatment of key figures.",
+      "options_i": ["lucid", "exhaustive", "cursory"],
+      "options_ii": ["comprehensive", "narrow", "biased"],
+      "options_iii": ["evenhanded", "reductive", "nuanced"],
+      "answer_i": "exhaustive",
+      "answer_ii": "comprehensive",
+      "answer_iii": "reductive",
+      "explanation": "'Exhaustive' and 'comprehensive' analysis can still be 'reductive' (oversimplifying) about individuals."
+    },
+    {
+      "question": "The artist’s (i) ______ style, which (ii) ______ traditional techniques with avant-garde themes, was (iii) ______ by conservative critics.",
+      "options_i": ["derivative", "eclectic", "monotonous"],
+      "options_ii": ["eschewed", "synthesized", "parodied"],
+      "options_iii": ["celebrated", "lambasted", "dismissed"],
+      "answer_i": "eclectic",
+      "answer_ii": "synthesized",
+      "answer_iii": "lambasted",
+      "explanation": "An 'eclectic' style that 'synthesizes' (combines) traditions and innovation might be 'lambasted' (harshly criticized) by conservatives."
+    },
+    {
+      "question": "The politician’s (i) ______ promises, though (ii) ______ popular, were (iii) ______ by economists as unrealistic.",
+      "options_i": ["quixotic", "pragmatic", "feasible"],
+      "options_ii": ["initially", "perennially", "rarely"],
+      "options_iii": ["endorsed", "dismissed", "misinterpreted"],
+      "answer_i": "quixotic",
+      "answer_ii": "initially",
+      "answer_iii": "dismissed",
+      "explanation": "'Quixotic' (unrealistic) promises might be 'initially' popular but 'dismissed' by experts."
+    },
+    {
+      "question": "The novel’s (i) ______ plot twists, (ii) ______ by its (iii) ______ character development, left readers both surprised and emotionally invested.",
+      "options_i": ["predictable", "jarring", "formulaic"],
+      "options_ii": ["undermined", "offset", "complemented"],
+      "options_iii": ["shallow", "profound", "static"],
+      "answer_i": "jarring",
+      "answer_ii": "complemented",
+      "answer_iii": "profound",
+      "explanation": "'Jarring' twists work with ('complemented' by) 'profound' character development."
+    },
+    {
+      "question": "The scientist’s (i) ______ methodology, though (ii) ______ to outsiders, was (iii) ______ among her peers for its precision.",
+      "options_i": ["intuitive", "opaque", "transparent"],
+      "options_ii": ["accessible", "inscrutable", "simplistic"],
+      "options_iii": ["maligned", "revered", "ignored"],
+      "answer_i": "opaque",
+      "answer_ii": "inscrutable",
+      "answer_iii": "revered",
+      "explanation": "An 'opaque' (unclear) method 'inscrutable' (hard to understand) to outsiders could be 'revered' (respected) by experts."
+    },
+    {
+      "question": "The director’s (i) ______ vision for the film was (ii) ______ by the studio’s (iii) ______ budget constraints.",
+      "options_i": ["modest", "grandiose", "conventional"],
+      "options_ii": ["realized", "hamstrung", "enhanced"],
+      "options_iii": ["lavish", "stringent", "flexible"],
+      "answer_i": "grandiose",
+      "answer_ii": "hamstrung",
+      "answer_iii": "stringent",
+      "explanation": "A 'grandiose' (ambitious) vision would be 'hamstrung' (hindered) by 'stringent' (strict) budgets."
+    },
+    {
+      "question": "The lawyer’s (i) ______ cross-examination, (ii) ______ in its focus, (iii) ______ the witness’s credibility.",
+      "options_i": ["meandering", "incisive", "desultory"],
+      "options_ii": ["unrelenting", "sporadic", "diffuse"],
+      "options_iii": ["bolstered", "eroded", "ignored"],
+      "answer_i": "incisive",
+      "answer_ii": "unrelenting",
+      "answer_iii": "eroded",
+      "explanation": "An 'incisive' (sharp) and 'unrelenting' examination would 'erode' credibility."
+    },
+    {
+      "question": "The entrepreneur’s (i) ______ optimism, though (ii) ______ in the early stages, (iii) ______ as challenges mounted.",
+      "options_i": ["unwarranted", "boundless", "tempered"],
+      "options_ii": ["infectious", "naive", "calculated"],
+      "options_iii": ["persisted", "waned", "intensified"],
+      "answer_i": "boundless",
+      "answer_ii": "infectious",
+      "answer_iii": "waned",
+      "explanation": "'Boundless' optimism might start as 'infectious' but 'waned' (declined) later."
+    },
+    {
+      "question": "The critic’s (i) ______ review (ii) ______ the artist’s (iii) ______ attempt to innovate.",
+      "options_i": ["laudatory", "scathing", "equivocal"],
+      "options_ii": ["praised", "lambasted", "dismissed"],
+      "options_iii": ["bold", "derivative", "halfhearted"],
+      "answer_i": "scathing",
+      "answer_ii": "lambasted",
+      "answer_iii": "bold",
+      "explanation": "A 'scathing' review 'lambasted' (harshly criticized) even a 'bold' attempt."
+    },
+    {
+      "question": "The treaty’s (i) ______ wording, while (ii) ______ to immediate conflict resolution, (iii) ______ future disputes.",
+      "options_i": ["ambiguous", "explicit", "concise"],
+      "options_ii": ["conducive", "detrimental", "irrelevant"],
+      "options_iii": ["averted", "fomented", "addressed"],
+      "answer_i": "ambiguous",
+      "answer_ii": "conducive",
+      "answer_iii": "fomented",
+      "explanation": "'Ambiguous' wording may help ('conducive') short-term but 'fomented' (stirred) future issues."
+    },
+    {
+      "question": "The professor’s (i) ______ lectures, (ii) ______ in their depth, were (iii) ______ by students for lacking practical examples.",
+      "options_i": ["superficial", "erudite", "simplistic"],
+      "options_ii": ["unmatched", "lacking", "notorious"],
+      "options_iii": ["praised", "decried", "tolerated"],
+      "answer_i": "erudite",
+      "answer_ii": "unmatched",
+      "answer_iii": "decried",
+      "explanation": "'Erudite' (learned) lectures 'unmatched' in depth might still be 'decried' (criticized) for missing practicality."
+    },
+    {
+      "question": "The engineer’s (i) ______ solution was (ii) ______ in its simplicity but (iii) ______ in its impact.",
+      "options_i": ["byzantine", "elegant", "convoluted"],
+      "options_ii": ["lamentable", "remarkable", "unremarkable"],
+      "options_iii": ["negligible", "profound", "incremental"],
+      "answer_i": "elegant",
+      "answer_ii": "remarkable",
+      "answer_iii": "profound",
+      "explanation": "An 'elegant' solution is 'remarkable' for simplicity and 'profound' in impact."
+    },
+    {
+      "question": "The poet’s (i) ______ imagery, (ii) ______ by her (iii) ______ attention to sensory detail, evoked strong emotions.",
+      "options_i": ["vivid", "dull", "clichéd"],
+      "options_ii": ["enhanced", "diminished", "ignored"],
+      "options_iii": ["scant", "meticulous", "passing"],
+      "answer_i": "vivid",
+      "answer_ii": "enhanced",
+      "answer_iii": "meticulous",
+      "explanation": "'Vivid' imagery is 'enhanced' by 'meticulous' (careful) attention to detail."
+    },
+    {
+      "question": "The committee’s (i) ______ recommendations, though (ii) ______ in their idealism, were (iii) ______ as impractical.",
+      "options_i": ["moderate", "utopian", "cynical"],
+      "options_ii": "laudable",
+      "options_iii": ["implemented", "dismissed", "celebrated"],
+      "answer_i": "utopian",
+      "answer_ii": "laudable",
+      "answer_iii": "dismissed",
+      "explanation": "'Utopian' (idealistic) recommendations may be 'laudable' but 'dismissed' as unrealistic."
+    },
+    {
+      "question": "The detective’s (i) ______ approach, (ii) ______ by years of experience, (iii) ______ crucial evidence others missed.",
+      "options_i": ["intuitive", "systematic", "haphazard"],
+      "options_ii": ["undermined", "informed", "distorted"],
+      "options_iii": ["overlooked", "uncovered", "obscured"],
+      "answer_i": "intuitive",
+      "answer_ii": "informed",
+      "answer_iii": "uncovered",
+      "explanation": "An 'intuitive' approach 'informed' by experience 'uncovers' hidden evidence."
+    },
+    {
+      "question": "The historian’s (i) ______ interpretation, while (ii) ______ by new evidence, remained (iii) ______ among traditional scholars.",
+      "options_i": ["orthodox", "revisionist", "obsolete"],
+      "options_ii": ["refuted", "buttressed", "ignored"],
+      "options_iii": ["controversial", "canonical", "irrelevant"],
+      "answer_i": "revisionist",
+      "answer_ii": "buttressed",
+      "answer_iii": "controversial",
+      "explanation": "A 'revisionist' view 'buttressed' (supported) by evidence may still be 'controversial.'"
+    },
+    {
+      "question": "The CEO’s (i) ______ strategy, though (ii) ______ in the short term, (iii) ______ long-term stability.",
+      "options_i": ["myopic", "visionary", "opportunistic"],
+      "options_ii": ["lucrative", "costly", "neutral"],
+      "options_iii": ["secured", "jeopardized", "ignored"],
+      "answer_i": "myopic",
+      "answer_ii": "lucrative",
+      "answer_iii": "jeopardized",
+      "explanation": "A 'myopic' (short-sighted) strategy might be 'lucrative' now but 'jeopardize' (risk) the future."
+    },
+    {
+      "question": "The playwright’s (i) ______ dialogue, (ii) ______ in its wit, was (iii) ______ for its lack of emotional depth.",
+      "options_i": ["stilted", "sparkling", "wooden"],
+      "options_ii": ["deficient", "unmatched", "notorious"],
+      "options_iii": ["praised", "criticized", "overlooked"],
+      "answer_i": "sparkling",
+      "answer_ii": "unmatched",
+      "answer_iii": "criticized",
+      "explanation": "'Sparkling' wit 'unmatched' in brilliance could still be 'criticized' for missing depth."
+    },
+    {
+      "question": "The scientist’s (i) ______ theory, once (ii) ______ as radical, was (iii) ______ by subsequent experiments.",
+      "options_i": ["conventional", "heretical", "banal"],
+      "options_ii": ["dismissed", "hailed", "ignored"],
+      "options_iii": ["debunked", "validated", "suppressed"],
+      "answer_i": "heretical",
+      "answer_ii": "dismissed",
+      "answer_iii": "validated",
+      "explanation": "A 'heretical' theory 'dismissed' early might later be 'validated.'"
+    },
+    {
+      "question": "The artist’s (i) ______ technique, (ii) ______ in its complexity, (iii) ______ viewers with its beauty.",
+      "options_i": ["rudimentary", "virtuosic", "amateurish"],
+      "options_ii": ["unremarkable", "astonishing", "lacking"],
+      "options_iii": ["repelled", "awed", "bored"],
+      "answer_i": "virtuosic",
+      "answer_ii": "astonishing",
+      "answer_iii": "awed",
+      "explanation": "'Virtuosic' (masterful) technique 'astonishing' in complexity 'awes' viewers."
+    },
+    {
+      "question": "The policy’s (i) ______ implementation, (ii) ______ by bureaucratic delays, (iii) ______ its intended benefits.",
+      "options_i": ["flawless", "botched", "streamlined"],
+      "options_ii": ["expedited", "hampered", "enhanced"],
+      "options_iii": ["maximized", "undermined", "guaranteed"],
+      "answer_i": "botched",
+      "answer_ii": "hampered",
+      "answer_iii": "undermined",
+      "explanation": "A 'botched' (mishandled) rollout 'hampered' by delays 'undermines' benefits."
+    },
+    {
+      "question": "The author’s (i) ______ prose, (ii) ______ in its clarity, was (iii) ______ for its lack of originality.",
+      "options_i": ["lucid", "opaque", "turgid"],
+      "options_ii": ["unparalleled", "deficient", "notorious"],
+      "options_iii": ["celebrated", "excoriated", "ignored"],
+      "answer_i": "lucid",
+      "answer_ii": "unparalleled",
+      "answer_iii": "excoriated",
+      "explanation": "'Lucid' prose 'unparalleled' in clarity might still be 'excoriated' (harshly criticized) for being unoriginal."
+    },
+
+  {
+      "question": "The (i) ______ debate between the scholars, while (ii) ______ in its intellectual rigor, ultimately proved (iii) ______ as neither side conceded ground.",
+      "options_i": ["collegial", "acrimonious", "perfunctory"],
+      "options_ii": ["unparalleled", "lacking", "noteworthy"],
+      "options_iii": ["fruitful", "futile", "decisive"],
+      "answer_i": "acrimonious",
+      "answer_ii": "noteworthy",
+      "answer_iii": "futile",
+      "explanation": "An 'acrimonious' (bitter) debate with 'noteworthy' rigor could still be 'futile' if no progress is made."
+    },
+    {
+      "question": "The (i) ______ architecture of the building, (ii) ______ in its boldness, was (iii) ______ by traditionalists who preferred classical styles.",
+      "options_i": ["conservative", "avant-garde", "derivative"],
+      "options_ii": ["timid", "daring", "unremarkable"],
+      "options_iii": ["embraced", "reviled", "overlooked"],
+      "answer_i": "avant-garde",
+      "answer_ii": "daring",
+      "answer_iii": "reviled",
+      "explanation": "'Avant-garde' (innovative) and 'daring' architecture would be 'reviled' (hated) by traditionalists."
+    },
+    {
+      "question": "The (i) ______ negotiations, though (ii) ______ by moments of tension, were (iii) ______ by the mediator's skillful diplomacy.",
+      "options_i": ["amicable", "contentious", "straightforward"],
+      "options_ii": ["marred", "enhanced", "uncharacterized"],
+      "options_iii": ["sabotaged", "salvaged", "prolonged"],
+      "answer_i": "contentious",
+      "answer_ii": "marred",
+      "answer_iii": "salvaged",
+      "explanation": "'Contentious' (heated) negotiations 'marred' by tension were 'salvaged' (saved) by good mediation."
+    },
+    {
+      "question": "The (i) ______ hypothesis, while (ii) ______ in its simplicity, was (iii) ______ by the complexity of the experimental data.",
+      "options_i": ["elegant", "convoluted", "specious"],
+      "options_ii": "appealing",
+      "options_iii": ["supported", "contradicted", "ignored"],
+      "answer_i": "elegant",
+      "answer_ii": "appealing",
+      "answer_iii": "contradicted",
+      "explanation": "An 'elegant' and 'appealing' hypothesis might be 'contradicted' by complex data."
+    },
+    {
+      "question": "The (i) ______ performance by the young pianist, (ii) ______ in its technical precision, (iii) ______ the audience with its emotional depth.",
+      "options_i": ["mediocre", "virtuosic", "amateurish"],
+      "options_ii": ["deficient", "unparalleled", "adequate"],
+      "options_iii": ["bored", "moved", "alienated"],
+      "answer_i": "virtuosic",
+      "answer_ii": "unparalleled",
+      "answer_iii": "moved",
+      "explanation": "A 'virtuosic' (masterful) performance 'unparalleled' in technique 'moved' the audience emotionally."
+    },
+    {
+      "question": "The (i) ______ economic policy, though (ii) ______ in its short-term effects, (iii) ______ long-term stability.",
+      "options_i": ["visionary", "myopic", "balanced"],
+      "options_ii": ["disastrous", "effective", "neutral"],
+      "options_iii": ["secured", "undermined", "ignored"],
+      "answer_i": "myopic",
+      "answer_ii": "effective",
+      "answer_iii": "undermined",
+      "explanation": "A 'myopic' (short-sighted) policy 'effective' now might 'undermine' future stability."
+    },
+    {
+      "question": "The (i) ______ interpretation of the text, while (ii) ______ among postmodern critics, was (iii) ______ by traditional scholars.",
+      "options_i": ["conventional", "radical", "superficial"],
+      "options_ii": ["unpopular", "influential", "unknown"],
+      "options_iii": ["embraced", "dismissed", "overlooked"],
+      "answer_i": "radical",
+      "answer_ii": "influential",
+      "answer_iii": "dismissed",
+      "explanation": "A 'radical' reading 'influential' in some circles might be 'dismissed' by traditionalists."
+    },
+    {
+      "question": "The (i) ______ ecosystem, (ii) ______ by years of pollution, was (iii) ______ by the conservation efforts.",
+      "options_i": ["fragile", "robust", "static"],
+      "options_ii": ["thriving", "ravaged", "unchanged"],
+      "options_iii": ["further damaged", "partially restored", "completely transformed"],
+      "answer_i": "fragile",
+      "answer_ii": "ravaged",
+      "answer_iii": "partially restored",
+      "explanation": "A 'fragile' ecosystem 'ravaged' by pollution might be 'partially restored' by conservation."
+    },
+    {
+      "question": "The (i) ______ argument in the paper, though (ii) ______ in its logic, was (iii) ______ by flawed assumptions.",
+      "options_i": ["watertight", "specious", "persuasive"],
+      "options_ii": ["unassailable", "compelling", "problematic"],
+      "options_iii": ["strengthened", "undermined", "validated"],
+      "answer_i": "persuasive",
+      "answer_ii": "compelling",
+      "answer_iii": "undermined",
+      "explanation": "A 'persuasive' and 'compelling' argument could still be 'undermined' by bad assumptions."
+    },
+    {
+      "question": "The (i) ______ reforms, (ii) ______ implemented, were (iii) ______ by bureaucratic inertia.",
+      "options_i": ["sweeping", "minor", "cosmetic"],
+      "options_ii": ["hastily", "efficiently", "haltingly"],
+      "options_iii": ["accelerated", "thwarted", "enhanced"],
+      "answer_i": "sweeping",
+      "answer_ii": "haltingly",
+      "answer_iii": "thwarted",
+      "explanation": "'Sweeping' reforms implemented 'haltingly' (hesitantly) would be 'thwarted' (blocked) by bureaucracy."
+    },
+    {
+      "question": "The (i) ______ novel, (ii) ______ in its scope, was (iii) ______ for its lack of character development.",
+      "options_i": ["epic", "modest", "trivial"],
+      "options_ii": ["ambitious", "limited", "unfocused"],
+      "options_iii": ["praised", "criticized", "ignored"],
+      "answer_i": "epic",
+      "answer_ii": "ambitious",
+      "answer_iii": "criticized",
+      "explanation": "An 'epic' and 'ambitious' novel might still be 'criticized' for weak characters."
+    },
+    {
+      "question": "The (i) ______ strategy, while (ii) ______ in theory, proved (iii) ______ in practice due to unforeseen complications.",
+      "options_i": ["flawed", "brilliant", "conventional"],
+      "options_ii": ["sound", "questionable", "innovative"],
+      "options_iii": ["effective", "unworkable", "superfluous"],
+      "answer_i": "brilliant",
+      "answer_ii": "sound",
+      "answer_iii": "unworkable",
+      "explanation": "A 'brilliant' and 'sound' strategy might be 'unworkable' in reality."
+    },
+    {
+      "question": "The (i) ______ landscape, (ii) ______ by years of drought, was (iii) ______ by the recent rains.",
+      "options_i": ["lush", "arid", "temperate"],
+      "options_ii": ["nourished", "parched", "unchanged"],
+      "options_iii": ["revived", "further damaged", "transformed"],
+      "answer_i": "arid",
+      "answer_ii": "parched",
+      "answer_iii": "revived",
+      "explanation": "An 'arid' landscape 'parched' by drought could be 'revived' by rain."
+    },
+    {
+      "question": "The (i) ______ analysis, (ii) ______ in its thoroughness, (iii) ______ several key flaws in the methodology.",
+      "options_i": ["superficial", "rigorous", "cursory"],
+      "options_ii": ["lacking", "exceptional", "adequate"],
+      "options_iii": ["overlooked", "exposed", "concealed"],
+      "answer_i": "rigorous",
+      "answer_ii": "exceptional",
+      "answer_iii": "exposed",
+      "explanation": "A 'rigorous' analysis 'exceptional' in thoroughness would 'expose' flaws."
+    },
+    {
+      "question": "The (i) ______ legislation, though (ii) ______ debated, was (iii) ______ as inadequate by advocacy groups.",
+      "options_i": ["landmark", "controversial", "obscure"],
+      "options_ii": ["extensively", "minimally", "secretly"],
+      "options_iii": ["hailed", "dismissed", "ignored"],
+      "answer_i": "controversial",
+      "answer_ii": "extensively",
+      "answer_iii": "dismissed",
+      "explanation": "'Controversial' legislation 'extensively' debated might still be 'dismissed' as insufficient."
+    },
+    {
+      "question": "The (i) ______ interpretation, while (ii) ______ among experts, was (iii) ______ by new archaeological evidence.",
+      "options_i": ["definitive", "speculative", "authoritative"],
+      "options_ii": ["unquestioned", "disputed", "unknown"],
+      "options_iii": ["confirmed", "challenged", "supplanted"],
+      "answer_i": "definitive",
+      "answer_ii": "unquestioned",
+      "answer_iii": "challenged",
+      "explanation": "A 'definitive' interpretation once 'unquestioned' could be 'challenged' by new evidence."
+    },
+    {
+      "question": "The (i) ______ marketing campaign, (ii) ______ in its creativity, (iii) ______ consumer interest in the product.",
+      "options_i": ["dull", "innovative", "conventional"],
+      "options_ii": ["lacking", "unparalleled", "moderate"],
+      "options_iii": ["dampened", "galvanized", "unaffected"],
+      "answer_i": "innovative",
+      "answer_ii": "unparalleled",
+      "answer_iii": "galvanized",
+      "explanation": "An 'innovative' campaign 'unparalleled' in creativity would 'galvanize' (energize) interest."
+    },
+    {
+      "question": "The (i) ______ theory, once (ii) ______ as revolutionary, was (iii) ______ by subsequent research.",
+      "options_i": ["marginal", "seminal", "obscure"],
+      "options_ii": ["dismissed", "hailed", "ignored"],
+      "options_iii": ["validated", "refuted", "overlooked"],
+      "answer_i": "seminal",
+      "answer_ii": "hailed",
+      "answer_iii": "refuted",
+      "explanation": "A 'seminal' (influential) theory 'hailed' as important might later be 'refuted.'"
+    },
+    {
+      "question": "The (i) ______ software update, (ii) ______ in its design, (iii) ______ several critical security flaws.",
+      "options_i": ["minor", "comprehensive", "optional"],
+      "options_ii": ["elegant", "flawed", "rudimentary"],
+      "options_iii": ["introduced", "patched", "ignored"],
+      "answer_i": "comprehensive",
+      "answer_ii": "elegant",
+      "answer_iii": "patched",
+      "explanation": "A 'comprehensive' and 'elegant' update would 'patch' (fix) security flaws."
+    },
+    {
+      "question": "The (i) ______ peace agreement, though (ii) ______ negotiated, was (iii) ______ by extremists on both sides.",
+      "options_i": ["fragile", "durable", "imposed"],
+      "options_ii": ["carefully", "hastily", "secretly"],
+      "options_iii": ["celebrated", "sabotaged", "strengthened"],
+      "answer_i": "fragile",
+      "answer_ii": "carefully",
+      "answer_iii": "sabotaged",
+      "explanation": "A 'fragile' agreement 'carefully' negotiated might still be 'sabotaged' by extremists."
+    },
+    {
+      "question": "The (i) ______ hypothesis, while (ii) ______ plausible, was (iii) ______ by the experimental results.",
+      "options_i": ["outlandish", "reasonable", "far-fetched"],
+      "options_ii": ["initially", "never", "universally"],
+      "options_iii": ["confirmed", "contradicted", "ignored"],
+      "answer_i": "reasonable",
+      "answer_ii": "initially",
+      "answer_iii": "contradicted",
+      "explanation": "A 'reasonable' hypothesis 'initially' plausible could be 'contradicted' by data."
+    },
+    {
+      "question": "The (i) ______ architectural design, (ii) ______ in its sustainability, was (iii) ______ for its aesthetic appeal.",
+      "options_i": ["conventional", "groundbreaking", "dated"],
+      "options_ii": ["pioneering", "lacking", "unremarkable"],
+      "options_iii": ["praised", "criticized", "overlooked"],
+      "answer_i": "groundbreaking",
+      "answer_ii": "pioneering",
+      "answer_iii": "criticized",
+      "explanation": "A 'groundbreaking' and 'pioneering' design might still be 'criticized' aesthetically."
+    },
+    {
+      "question": "The (i) ______ economic recovery, though (ii) ______ in its early stages, (iii) ______ as global conditions improved.",
+      "options_i": ["sluggish", "robust", "stagnant"],
+      "options_ii": ["promising", "disappointing", "uneven"],
+      "options_iii": ["accelerated", "faltered", "plateaued"],
+      "answer_i": "sluggish",
+      "answer_ii": "promising",
+      "answer_iii": "accelerated",
+      "explanation": "A 'sluggish' recovery showing 'promising' early signs might later 'accelerate.'"
+    },
+    {
+      "question": "The (i) ______ research findings, (ii) ______ in their implications, were (iii) ______ by the scientific community.",
+      "options_i": ["modest", "startling", "predictable"],
+      "options_ii": ["trivial", "far-reaching", "limited"],
+      "options_iii": ["embraced", "dismissed", "suppressed"],
+      "answer_i": "startling",
+      "answer_ii": "far-reaching",
+      "answer_iii": "embraced",
+      "explanation": "'Startling' findings with 'far-reaching' implications would likely be 'embraced.'"
+    },
+
+
+
+
+
+  {
+    "question": "Although the scientist's theory was initially (i) ______, subsequent experiments provided (ii) ______ evidence, leading to its eventual (iii) ______.",
+    "options_i": ["celebrated", "dismissed", "ignored"],
+    "options_ii": ["contradictory", "supportive", "inconclusive"],
+    "options_iii": ["acceptance", "rejection", "modification"],
+    "answer_i": "dismissed",
+    "answer_ii": "supportive",
+    "answer_iii": "acceptance",
+    "explanation": "The theory was first 'dismissed', but 'supportive' evidence led to its 'acceptance'."
+  },
+  {
+    "question": "The novel's protagonist is portrayed as (i) ______, yet his actions reveal a (ii) ______ nature, culminating in a (iii) ______ transformation.",
+    "options_i": ["benevolent", "malevolent", "ambiguous"],
+    "options_ii": ["compassionate", "ruthless", "indifferent"],
+    "options_iii": ["tragic", "redemptive", "negligible"],
+    "answer_i": "benevolent",
+    "answer_ii": "ruthless",
+    "answer_iii": "redemptive",
+    "explanation": "Though appearing 'benevolent', his 'ruthless' actions lead to a 'redemptive' transformation."
+  },
+  {
+    "question": "The committee's decision was (i) ______, reflecting a (ii) ______ approach that ultimately led to (iii) ______ outcomes.",
+    "options_i": ["unanimous", "divided", "impulsive"],
+    "options_ii": ["strategic", "haphazard", "deliberate"],
+    "options_iii": ["favorable", "detrimental", "ambiguous"],
+    "answer_i": "unanimous",
+    "answer_ii": "strategic",
+    "answer_iii": "favorable",
+    "explanation": "A 'unanimous' and 'strategic' decision resulted in 'favorable' outcomes."
+  },
+  {
+    "question": "Despite the artist's (i) ______ style, critics praised the work for its (ii) ______ and (iii) ______.",
+    "options_i": ["conventional", "avant-garde", "derivative"],
+    "options_ii": ["originality", "mediocrity", "banality"],
+    "options_iii": ["depth", "superficiality", "clarity"],
+    "answer_i": "avant-garde",
+    "answer_ii": "originality",
+    "answer_iii": "depth",
+    "explanation": "An 'avant-garde' style led to praise for 'originality' and 'depth'."
+  },
+  {
+    "question": "The lecture was (i) ______, filled with (ii) ______ anecdotes that, while entertaining, offered little (iii) ______.",
+    "options_i": ["engaging", "tedious", "monotonous"],
+    "options_ii": ["irrelevant", "pertinent", "insightful"],
+    "options_iii": ["substance", "humor", "clarity"],
+    "answer_i": "engaging",
+    "answer_ii": "irrelevant",
+    "answer_iii": "substance",
+    "explanation": "An 'engaging' lecture with 'irrelevant' anecdotes lacked 'substance'."
+  },
+  {
+    "question": "The policy was implemented with (i) ______, aiming to address the issue with (ii) ______ measures, but it resulted in (iii) ______ consequences.",
+    "options_i": ["urgency", "indifference", "deliberation"],
+    "options_ii": ["comprehensive", "superficial", "targeted"],
+    "options_iii": ["unforeseen", "beneficial", "negligible"],
+    "answer_i": "urgency",
+    "answer_ii": "comprehensive",
+    "answer_iii": "unforeseen",
+    "explanation": "Implemented with 'urgency' and 'comprehensive' measures, the policy had 'unforeseen' consequences."
+  },
+  {
+    "question": "Her argument was (i) ______, supported by (ii) ______ evidence, yet it failed to (iii) ______ the audience.",
+    "options_i": ["compelling", "flawed", "coherent"],
+    "options_ii": ["anecdotal", "empirical", "circumstantial"],
+    "options_iii": ["persuade", "alienate", "engage"],
+    "answer_i": "coherent",
+    "answer_ii": "empirical",
+    "answer_iii": "persuade",
+    "explanation": "A 'coherent' argument with 'empirical' evidence that didn't 'persuade' the audience."
+  },
+  {
+    "question": "The company's (i) ______ growth was attributed to its (ii) ______ strategies and (iii) ______ leadership.",
+    "options_i": ["exponential", "stagnant", "modest"],
+    "options_ii": ["innovative", "conventional", "risky"],
+    "options_iii": ["visionary", "lackluster", "autocratic"],
+    "answer_i": "exponential",
+    "answer_ii": "innovative",
+    "answer_iii": "visionary",
+    "explanation": "'Exponential' growth resulted from 'innovative' strategies and 'visionary' leadership."
+  },
+  {
+    "question": "While the proposal was (i) ______ in theory, its (ii) ______ assumptions led to a (iii) ______ implementation.",
+    "options_i": ["sound", "controversial", "ambiguous"],
+    "options_ii": ["flawed", "robust", "valid"],
+    "options_iii": ["successful", "problematic", "seamless"],
+    "answer_i": "sound",
+    "answer_ii": "flawed",
+    "answer_iii": "problematic",
+    "explanation": "A 'sound' proposal with 'flawed' assumptions led to a 'problematic' implementation."
+  },
+  {
+    "question": "The documentary was (i) ______, offering a (ii) ______ perspective that challenged the audience's (iii) ______ beliefs.",
+    "options_i": ["provocative", "mundane", "biased"],
+    "options_ii": ["novel", "traditional", "superficial"],
+    "options_iii": ["entrenched", "flexible", "unformed"],
+    "answer_i": "provocative",
+    "answer_ii": "novel",
+    "answer_iii": "entrenched",
+    "explanation": "A 'provocative' documentary with a 'novel' perspective challenged 'entrenched' beliefs."
+  },
+  {
+    "question": "The novelist's early life remains surprisingly (i) ______ to biographical inquiry, for despite the confessional style that became the hallmark of so much that he wrote, his apparent (ii) ______ often concealed a good deal more than it revealed. His description of his childhood fills fewer than three pages of his autobiography, and the few episodes he chose to recall have a slightly (iii) ______ character about them, colored both by the passing of the years and his life-long vivid imagination.",
+    "options_i": ["accessible", "exposed", "impervious"],
+    "options_ii": ["mendacity", "candor", "remorsefulness"],
+    "options_iii": ["fantastic", "nostalgic", "innocent"],
+    "answer_i": "impervious",
+    "answer_ii": "candor",
+    "answer_iii": "nostalgic",
+    "explanation": "Despite a 'candor' in writing, his early life remains 'impervious' to inquiry, with recollections having a 'nostalgic' character."
+  },
+  {
+    "question": "Repression of painful memories is sometimes called 'willed forgetting.' Yet true forgetting is (i) ______ than the phenomenon of repressed memory. In spite of the effort that it (ii) ______, repressing unwanted memories is less (iii) ______ than truly forgetting them, for repressed memories are prone to come back.",
+    "options_i": ["less controlled", "different in its effect", "far more common"],
+    "options_ii": ["eases", "conveys", "entails"],
+    "options_iii": ["permanent", "arduous", "immediate"],
+    "answer_i": "different in its effect",
+    "answer_ii": "entails",
+    "answer_iii": "permanent",
+    "explanation": "Repression 'entails' effort and is less 'permanent' than true forgetting, which is 'different in its effect'."
+  },
+  {
+    "question": "The editor reduced the introduction from ten (i) ______ pages to two (ii) ______ paragraphs by (iii) ______ all of the unnecessary verbal flourishes that riddled its sentences.",
+    "options_i": ["immutable", "tortuous", "florid"],
+    "options_ii": ["intransigent", "succinct", "trenchant"],
+    "options_iii": ["inhibiting", "excising", "expiating"],
+    "answer_i": "tortuous",
+    "answer_ii": "succinct",
+    "answer_iii": "excising",
+    "explanation": "The 'tortuous' pages were made 'succinct' by 'excising' unnecessary flourishes."
+  },
+  {
+    "question": "Although Robert did not have (i) ______ beliefs, he would regularly (ii) ______ about almost any topic, expressing his passing thoughts with little hesitation, often to the (iii) ______ of his reticent, conservative friends.",
+    "options_i": ["certain", "dogmatic", "settled"],
+    "options_ii": ["publish", "preach", "opine"],
+    "options_iii": ["amazement", "sadness", "consternation"],
+    "answer_i": "settled",
+    "answer_ii": "opine",
+    "answer_iii": "consternation",
+    "explanation": "Without 'settled' beliefs, he would 'opine' freely, causing 'consternation' among his conservative friends."
+  },
+ {
+      "question": "The (i) ______ conclusions of the study, while (ii) ______ in academic circles, were (iii) ______ by industry experts who questioned the methodology.",
+      "options_i": ["tentative", "definitive", "speculative"],
+      "options_ii": ["celebrated", "contested", "ignored"],
+      "options_iii": ["embraced", "challenged", "overlooked"],
+      "answer_i": "definitive",
+      "answer_ii": "celebrated",
+      "answer_iii": "challenged",
+      "explanation": "'Definitive' conclusions 'celebrated' academically might still be 'challenged' by practitioners."
+    },
+    {
+      "question": "The (i) ______ narrative of the memoir, (ii) ______ by its emotional honesty, was (iii) ______ for occasional factual inaccuracies.",
+      "options_i": ["compelling", "tedious", "fragmentary"],
+      "options_ii": ["undermined", "enhanced", "unaffected"],
+      "options_iii": ["praised", "criticized", "excused"],
+      "answer_i": "compelling",
+      "answer_ii": "enhanced",
+      "answer_iii": "criticized",
+      "explanation": "A 'compelling' narrative 'enhanced' by honesty could still be 'criticized' for errors."
+    },
+    {
+      "question": "The (i) ______ policy proposal, though (ii) ______ in its ambition, was (iii) ______ as fiscally irresponsible by opponents.",
+      "options_i": ["modest", "sweeping", "incremental"],
+      "options_ii": ["visionary", "lacking", "realistic"],
+      "options_iii": ["hailed", "dismissed", "refined"],
+      "answer_i": "sweeping",
+      "answer_ii": "visionary",
+      "answer_iii": "dismissed",
+      "explanation": "A 'sweeping' and 'visionary' proposal might be 'dismissed' as unrealistic."
+    },
+    {
+      "question": "The (i) ______ ecosystem, (ii) ______ by invasive species, was (iii) ______ through targeted conservation efforts.",
+      "options_i": ["thriving", "fragile", "static"],
+      "options_ii": ["enriched", "overwhelmed", "unaffected"],
+      "options_iii": ["restored", "further damaged", "ignored"],
+      "answer_i": "fragile",
+      "answer_ii": "overwhelmed",
+      "answer_iii": "restored",
+      "explanation": "A 'fragile' ecosystem 'overwhelmed' by invaders could be 'restored' through intervention."
+    },
+    {
+      "question": "The (i) ______ hypothesis, while (ii) ______ elegant, was (iii) ______ by the complexity of empirical data.",
+      "options_i": ["convoluted", "parsimonious", "ambiguous"],
+      "options_ii": ["aesthetically", "clumsily", "unremarkably"],
+      "options_iii": ["validated", "contradicted", "ignored"],
+      "answer_i": "parsimonious",
+      "answer_ii": "aesthetically",
+      "answer_iii": "contradicted",
+      "explanation": "A 'parsimonious' (simple) and 'aesthetically' elegant hypothesis might not fit complex data."
+    },
+    {
+      "question": "The (i) ______ negotiations, (ii) ______ by mutual distrust, were (iii) ______ when a neutral mediator intervened.",
+      "options_i": ["productive", "stalemated", "cordial"],
+      "options_ii": ["facilitated", "paralyzed", "unaffected"],
+      "options_iii": ["resurrected", "abandoned", "prolonged"],
+      "answer_i": "stalemated",
+      "answer_ii": "paralyzed",
+      "answer_iii": "resurrected",
+      "explanation": "'Stalemated' talks 'paralyzed' by distrust could be 'resurrected' by mediation."
+    },
+    {
+      "question": "The (i) ______ analysis, (ii) ______ in its attention to detail, (iii) ______ key flaws in the original experiment.",
+      "options_i": ["superficial", "meticulous", "cursory"],
+      "options_ii": ["lacking", "exceptional", "adequate"],
+      "options_iii": ["overlooked", "exposed", "concealed"],
+      "answer_i": "meticulous",
+      "answer_ii": "exceptional",
+      "answer_iii": "exposed",
+      "explanation": "A 'meticulous' analysis with 'exceptional' detail would 'expose' flaws."
+    },
+    {
+      "question": "The (i) ______ novel, though (ii) ______ in its character development, was (iii) ______ for its predictable plot.",
+      "options_i": ["groundbreaking", "conventional", "experimental"],
+      "options_ii": ["weak", "masterful", "uneven"],
+      "options_iii": ["lauded", "panned", "overlooked"],
+      "answer_i": "experimental",
+      "answer_ii": "masterful",
+      "answer_iii": "panned",
+      "explanation": "An 'experimental' novel with 'masterful' characters might still be 'panned' for predictability."
+    },
+    {
+      "question": "The (i) ______ legislation, (ii) ______ through bipartisan compromise, was (iii) ______ as a landmark achievement.",
+      "options_i": ["controversial", "watered-down", "transformative"],
+      "options_ii": ["rushed", "crafted", "forced"],
+      "options_iii": ["dismissed", "hailed", "ignored"],
+      "answer_i": "transformative",
+      "answer_ii": "crafted",
+      "answer_iii": "hailed",
+      "explanation": "'Transformative' legislation 'crafted' through compromise would be 'hailed' as significant."
+    },
+    {
+      "question": "The (i) ______ theory, once (ii) ______ as fringe science, was (iii) ______ by subsequent discoveries.",
+      "options_i": ["mainstream", "heretical", "obsolete"],
+      "options_ii": ["dismissed", "accepted", "celebrated"],
+      "options_iii": ["debunked", "validated", "suppressed"],
+      "answer_i": "heretical",
+      "answer_ii": "dismissed",
+      "answer_iii": "validated",
+      "explanation": "A 'heretical' theory 'dismissed' early might later be 'validated.'"
+    },
+    {
+      "question": "The (i) ______ software, (ii) ______ in its user-friendliness, was (iii) ______ for its lack of advanced features.",
+      "options_i": ["cumbersome", "intuitive", "arcane"],
+      "options_ii": ["lacking", "exceptional", "mediocre"],
+      "options_iii": ["praised", "criticized", "recommended"],
+      "answer_i": "intuitive",
+      "answer_ii": "exceptional",
+      "answer_iii": "criticized",
+      "explanation": "'Intuitive' software 'exceptional' in usability might be 'criticized' for missing features."
+    },
+    {
+      "question": "The (i) ______ economic forecast, though (ii) ______ optimistic, was (iii) ______ by unexpected market volatility.",
+      "options_i": ["cautious", "rosy", "pessimistic"],
+      "options_ii": ["excessively", "realistically", "unjustifiably"],
+      "options_iii": ["confirmed", "undermined", "ignored"],
+      "answer_i": "rosy",
+      "answer_ii": "excessively",
+      "answer_iii": "undermined",
+      "explanation": "A 'rosy' forecast 'excessively' optimistic would be 'undermined' by market changes."
+    },
+    {
+      "question": "The (i) ______ hypothesis, (ii) ______ in its simplicity, was (iii) ______ by the complexity of observed phenomena.",
+      "options_i": ["elegant", "convoluted", "specious"],
+      "options_ii": ["appealing", "lacking", "problematic"],
+      "options_iii": ["supported", "contradicted", "overlooked"],
+      "answer_i": "elegant",
+      "answer_ii": "appealing",
+      "answer_iii": "contradicted",
+      "explanation": "An 'elegant' and 'appealing' hypothesis might not match complex reality."
+    },
+    {
+      "question": "The (i) ______ peace talks, (ii) ______ by extremist factions, were (iii) ______ through international pressure.",
+      "options_i": ["faltering", "productive", "secret"],
+      "options_ii": ["supported", "sabotaged", "unaffected"],
+      "options_iii": ["revived", "abandoned", "prolonged"],
+      "answer_i": "faltering",
+      "answer_ii": "sabotaged",
+      "answer_iii": "revived",
+      "explanation": "'Faltering' talks 'sabotaged' by extremists could be 'revived' through intervention."
+    },
+    {
+      "question": "The (i) ______ research, (ii) ______ in its methodology, (iii) ______ longstanding assumptions in the field.",
+      "options_i": ["flawed", "rigorous", "biased"],
+      "options_ii": ["innovative", "conventional", "sloppy"],
+      "options_iii": ["reinforced", "overturned", "ignored"],
+      "answer_i": "rigorous",
+      "answer_ii": "innovative",
+      "answer_iii": "overturned",
+      "explanation": "'Rigorous' and 'innovative' research might 'overturn' old assumptions."
+    },
+    {
+      "question": "The (i) ______ architectural design, (ii) ______ in its sustainability, was (iii) ______ for sacrificing aesthetic appeal.",
+      "options_i": ["dated", "groundbreaking", "derivative"],
+      "options_ii": ["pioneering", "lacking", "unremarkable"],
+      "options_iii": ["celebrated", "lamented", "overlooked"],
+      "answer_i": "groundbreaking",
+      "answer_ii": "pioneering",
+      "answer_iii": "lamented",
+      "explanation": "A 'groundbreaking' and 'pioneering' design might be 'lamented' for poor aesthetics."
+    },
+    {
+      "question": "The (i) ______ economic policy, though (ii) ______ in the short term, (iii) ______ long-term growth prospects.",
+      "options_i": ["stimulative", "austere", "neutral"],
+      "options_ii": ["effective", "disastrous", "irrelevant"],
+      "options_iii": ["boosted", "jeopardized", "unaffected"],
+      "answer_i": "austere",
+      "answer_ii": "effective",
+      "answer_iii": "jeopardized",
+      "explanation": "An 'austere' (strict) policy 'effective' now might 'jeopardize' future growth."
+    },
+    {
+      "question": "The (i) ______ interpretation, while (ii) ______ among scholars, was (iii) ______ by new archaeological evidence.",
+      "options_i": ["orthodox", "revisionist", "obscure"],
+      "options_ii": ["unquestioned", "contested", "unknown"],
+      "options_iii": ["confirmed", "challenged", "ignored"],
+      "answer_i": "orthodox",
+      "answer_ii": "unquestioned",
+      "answer_iii": "challenged",
+      "explanation": "The 'orthodox' view once 'unquestioned' could be 'challenged' by new findings."
+    },
+    {
+      "question": "The (i) ______ scientific paradigm, (ii) ______ for decades, was (iii) ______ by anomalous experimental results.",
+      "options_i": ["marginal", "dominant", "discredited"],
+      "options_ii": ["unstable", "unchallenged", "controversial"],
+      "options_iii": ["reinforced", "shaken", "ignored"],
+      "answer_i": "dominant",
+      "answer_ii": "unchallenged",
+      "answer_iii": "shaken",
+      "explanation": "A 'dominant' paradigm long 'unchallenged' might be 'shaken' by anomalies."
+    },
+    {
+      "question": "The (i) ______ diplomatic initiative, (ii) ______ by years of preparation, was (iii) ______ by last-minute political upheavals.",
+      "options_i": ["impulsive", "careful", "haphazard"],
+      "options_ii": ["undermined", "informed", "rushed"],
+      "options_iii": ["saved", "derailed", "strengthened"],
+      "answer_i": "careful",
+      "answer_ii": "informed",
+      "answer_iii": "derailed",
+      "explanation": "A 'careful' initiative 'informed' by preparation could still be 'derailed' by upheavals."
+    }
+  ]
+}
+
+
+  ]
+}
