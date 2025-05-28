@@ -149,6 +149,126 @@
     "options": ["transparent", "duplicitous", "honest", "deceitful", "forthright", "candid"],
     "correct_answers": ["duplicitous", "deceitful"],
     "explanation": "The CEO's actions suggest dishonesty. 'Duplicitous' and 'deceitful' both imply deceptive behavior."
-  }
+  },
+{
+      "question": "The scientist’s findings were so ______ that they fundamentally altered the field’s understanding of the phenomenon.",
+      "options": ["trivial", "groundbreaking", "obscure", "revolutionary", "incremental", "marginal"],
+      "correct_answers": ["groundbreaking", "revolutionary"],
+      "explanation": "The findings caused a major shift, implying significance. 'Groundbreaking' and 'revolutionary' both convey transformative impact."
+    },
+    {
+      "question": "Her ______ demeanor during the negotiation concealed her fierce determination to win.",
+      "options": ["combative", "serene", "aggressive", "tranquil", "contentious", "hostile"],
+      "correct_answers": ["serene", "tranquil"],
+      "explanation": "The demeanor hid determination, suggesting outward calmness. 'Serene' and 'tranquil' both describe calm appearances."
+    },
+    {
+      "question": "The historian’s analysis was ______, drawing on previously overlooked documents to challenge established theories.",
+      "options": ["derivative", "innovative", "unoriginal", "iconoclastic", "hackneyed", "conventional"],
+      "correct_answers": ["innovative", "iconoclastic"],
+      "explanation": "The analysis challenged norms, implying originality. 'Innovative' and 'iconoclastic' both suggest breaking from tradition."
+    },
+    {
+      "question": "The CEO’s ______ apology only deepened the public’s distrust of the company.",
+      "options": ["effusive", "perfunctory", "heartfelt", "cursory", "sincere", "tearful"],
+      "correct_answers": ["perfunctory", "cursory"],
+      "explanation": "The apology worsened distrust, suggesting insincerity. 'Perfunctory' and 'cursory' imply superficial effort."
+    },
+    {
+      "question": "The artist’s work was ______, blending vibrant colors with chaotic brushstrokes to evoke raw emotion.",
+      "options": ["subtle", "flamboyant", "restrained", "florid", "muted", "sober"],
+      "correct_answers": ["flamboyant", "florid"],
+      "explanation": "Vibrant colors and chaos suggest boldness. 'Flamboyant' and 'florid' both describe extravagant styles."
+    },
+    {
+      "question": "The detective’s ______ observation of the crime scene revealed critical clues others had missed.",
+      "options": ["cursory", "superficial", "keen", "perceptive", "negligent", "slapdash"],
+      "correct_answers": ["keen", "perceptive"],
+      "explanation": "The detective noticed hidden clues, implying sharpness. 'Keen' and 'perceptive' both describe acute observation."
+    },
+    {
+      "question": "The politician’s ______ promises were quickly forgotten after the election.",
+      "options": ["sincere", "hollow", "genuine", "empty", "substantial", "authentic"],
+      "correct_answers": ["hollow", "empty"],
+      "explanation": "Promises were forgotten, suggesting insincerity. 'Hollow' and 'empty' both imply lack of substance."
+    },
+    {
+      "question": "The novel’s ending was deliberately ______, leaving readers to debate its meaning.",
+      "options": ["explicit", "ambiguous", "unclear", "transparent", "definitive", "lucid"],
+      "correct_answers": ["ambiguous", "unclear"],
+      "explanation": "The ending sparked debate, implying openness to interpretation. 'Ambiguous' and 'unclear' both convey this."
+    },
+    {
+      "question": "The professor’s ______ lectures made even esoteric subjects engaging to undergraduates.",
+      "options": ["tedious", "animated", "dull", "lively", "monotonous", "pedantic"],
+      "correct_answers": ["animated", "lively"],
+      "explanation": "Lectures were engaging, suggesting energy. 'Animated' and 'lively' both describe dynamic delivery."
+    },
+    {
+      "question": "The lawyer’s ______ cross-examination exposed glaring inconsistencies in the witness’s testimony.",
+      "options": ["gentle", "incisive", "tactful", "penetrating", "vague", "diplomatic"],
+      "correct_answers": ["incisive", "penetrating"],
+      "explanation": "The cross-examination revealed flaws, implying sharp analysis. 'Incisive' and 'penetrating' both suggest intellectual rigor."
+    },
+    {
+      "question": "The team’s ______ performance in the playoffs surprised fans who expected an early exit.",
+      "options": ["lackluster", "stellar", "mediocre", "exceptional", "ordinary", "pedestrian"],
+      "correct_answers": ["stellar", "exceptional"],
+      "explanation": "The team exceeded expectations, implying excellence. 'Stellar' and 'exceptional' both convey high quality."
+    },
+    {
+      "question": "The architect’s ______ design seamlessly integrated modern aesthetics with historical preservation.",
+      "options": ["jarring", "harmonious", "discordant", "congruous", "clashing", "dissonant"],
+      "correct_answers": ["harmonious", "congruous"],
+      "explanation": "The design blended elements smoothly. 'Harmonious' and 'congruous' both imply pleasing integration."
+    },
+    {
+      "question": "The journalist’s ______ reporting uncovered corruption that had been hidden for decades.",
+      "options": ["superficial", "tenacious", "shallow", "dogged", "cursory", "perfunctory"],
+      "correct_answers": ["tenacious", "dogged"],
+      "explanation": "The reporting exposed hidden truths, implying persistence. 'Tenacious' and 'dogged' both describe relentless effort."
+    },
+    {
+      "question": "The comedian’s ______ humor relied on witty wordplay rather than crude jokes.",
+      "options": ["sophomoric", "refined", "vulgar", "elegant", "ribald", "coarse"],
+      "correct_answers": ["refined", "elegant"],
+      "explanation": "The humor was witty, suggesting sophistication. 'Refined' and 'elegant' both describe cultured wit."
+    },
+    {
+      "question": "The CEO’s ______ vision for the company inspired employees to innovate.",
+      "options": ["myopic", "forward-thinking", "shortsighted", "progressive", "regressive", "retrograde"],
+      "correct_answers": ["forward-thinking", "progressive"],
+      "explanation": "The vision spurred innovation, implying futurism. 'Forward-thinking' and 'progressive' both suggest advancement."
+    },
+    {
+      "question": "The diplomat’s ______ handling of the crisis averted a potential war.",
+      "options": ["clumsy", "adroit", "inept", "deft", "maladroit", "bungling"],
+      "correct_answers": ["adroit", "deft"],
+      "explanation": "The crisis was averted, implying skill. 'Adroit' and 'deft' both describe clever maneuvering."
+    },
+    {
+      "question": "The author’s ______ prose captivated readers with its poetic rhythm and vivid imagery.",
+      "options": ["prosaic", "lyrical", "mundane", "musical", "tedious", "pedestrian"],
+      "correct_answers": ["lyrical", "musical"],
+      "explanation": "The prose was poetic, suggesting beauty. 'Lyrical' and 'musical' both describe flowing, artistic writing."
+    },
+    {
+      "question": "The scientist’s ______ approach to the problem involved testing every possible variable.",
+      "options": ["systematic", "haphazard", "methodical", "random", "chaotic", "orderly"],
+      "correct_answers": ["systematic", "methodical"],
+      "explanation": "Every variable was tested, implying thoroughness. 'Systematic' and 'methodical' both describe disciplined processes."
+    },
+    {
+      "question": "The film’s ______ soundtrack amplified the emotional impact of key scenes.",
+      "options": ["forgettable", "evocative", "unremarkable", "poignant", "banal", "insipid"],
+      "correct_answers": ["evocative", "poignant"],
+      "explanation": "The soundtrack heightened emotion. 'Evocative' and 'poignant' both describe powerful emotional resonance."
+    },
+    {
+      "question": "The athlete’s ______ performance broke records and silenced critics.",
+      "options": ["mediocre", "unprecedented", "ordinary", "legendary", "average", "commonplace"],
+      "correct_answers": ["unprecedented", "legendary"],
+      "explanation": "The performance broke records, implying historic achievement. 'Unprecedented' and 'legendary' both convey rarity."
+    }
   ]
 }
