@@ -6,6 +6,549 @@
       "correct_answers": ["reserved", "dispassionate"],
       "explanation": "The sentence contrasts the professor's usual demeanor with today's passionate lecture. 'Reserved' and 'dispassionate' both describe a restrained or unemotional demeanor, fitting the contrast."
     },
+{
+      "question": "The CEO's ______ leadership style inspired both admiration and fear among employees.",
+      "options": ["lackadaisical", "authoritarian", "permissive", "autocratic", "lax", "indifferent"],
+      "correct_answers": ["authoritarian", "autocratic"],
+      "explanation": "The context suggests a strict leadership style that evokes strong reactions. Both 'authoritarian' and 'autocratic' describe domineering leadership approaches."
+    },
+    {
+      "question": "The artist's ______ use of color transformed ordinary scenes into vibrant masterpieces.",
+      "options": ["muted", "bold", "timid", "daring", "subtle", "washed-out"],
+      "correct_answers": ["bold", "daring"],
+      "explanation": "The transformation to 'vibrant masterpieces' suggests striking color use. 'Bold' and 'daring' both convey this artistic approach."
+    },
+    {
+      "question": "The scientist remained ______ despite numerous failed experiments, convinced her theory would eventually be proven.",
+      "options": ["dubious", "skeptical", "resolute", "wavering", "wavering", "steadfast"],
+      "correct_answers": ["resolute", "steadfast"],
+      "explanation": "The context describes persistent determination. Both 'resolute' and 'steadfast' describe unwavering commitment."
+    },
+    {
+      "question": "The diplomat's ______ response defused the tense situation before it could escalate.",
+      "options": ["inflammatory", "provocative", "tactful", "conciliatory", "hostile", "bellicose"],
+      "correct_answers": ["tactful", "conciliatory"],
+      "explanation": "The response successfully calmed tensions. 'Tactful' and 'conciliatory' both describe peace-promoting approaches."
+    },
+    {
+      "question": "The novel's ______ plot kept readers guessing until the final chapter.",
+      "options": ["predictable", "transparent", "convoluted", "byzantine", "straightforward", "simplistic"],
+      "correct_answers": ["convoluted", "byzantine"],
+      "explanation": "A plot that maintains suspense suggests complexity. Both 'convoluted' and 'byzantine' describe intricate, hard-to-predict narratives."
+    },
+    {
+      "question": "The journalist's ______ reporting exposed corruption that had gone unnoticed for years.",
+      "options": ["superficial", "cursory", "tenacious", "dogged", "perfunctory", "slapdash"],
+      "correct_answers": ["tenacious", "dogged"],
+      "explanation": "Exposing long-hidden corruption requires persistence. Both 'tenacious' and 'dogged' describe determined investigative work."
+    },
+    {
+      "question": "The professor's ______ lectures made even complex topics accessible to beginners.",
+      "options": ["obscure", "abstruse", "lucid", "pellucid", "cryptic", "enigmatic"],
+      "correct_answers": ["lucid", "pellucid"],
+      "explanation": "Making complex topics accessible requires clarity. Both 'lucid' and 'pellucid' describe clear, easily understood explanations."
+    },
+    {
+      "question": "The CEO's ______ vision for the company's future inspired investors and employees alike.",
+      "options": ["myopic", "shortsighted", "prescient", "farseeing", "nearsighted", "limited"],
+      "correct_answers": ["prescient", "farseeing"],
+      "explanation": "An inspiring vision suggests foresight. Both 'prescient' and 'farseeing' describe the ability to anticipate future developments."
+    },
+    {
+      "question": "The lawyer's ______ cross-examination exposed inconsistencies in the witness's testimony.",
+      "options": ["gentle", "incisive", "penetrating", "vague", "superficial", "cursory"],
+      "correct_answers": ["incisive", "penetrating"],
+      "explanation": "Exposing inconsistencies requires sharp questioning. Both 'incisive' and 'penetrating' describe intellectually sharp analysis."
+    },
+    {
+      "question": "The artist's ______ style evolved dramatically over her career, from realism to complete abstraction.",
+      "options": ["static", "unchanging", "protean", "volatile", "fixed", "immutable"],
+      "correct_answers": ["protean", "volatile"],
+      "explanation": "Dramatic evolution suggests changeability. Both 'protean' and 'volatile' describe tendencies to change frequently or dramatically."
+    },
+    {
+      "question": "The mountain climber's ______ ascent in poor weather conditions amazed even experienced alpinists.",
+      "options": ["cautious", "timid", "audacious", "daring", "hesitant", "apprehensive"],
+      "correct_answers": ["audacious", "daring"],
+      "explanation": "An ascent that amazes experts suggests boldness. Both 'audacious' and 'daring' describe courageous, risk-taking behavior."
+    },
+    {
+      "question": "The historian's ______ analysis challenged long-held assumptions about the event.",
+      "options": ["orthodox", "iconoclastic", "heretical", "conventional", "traditional", "established"],
+      "correct_answers": ["iconoclastic", "heretical"],
+      "explanation": "Challenging established views suggests unconventional thinking. Both 'iconoclastic' and 'heretical' describe attacks on traditional beliefs."
+    },
+    {
+      "question": "The architect's ______ design seamlessly blended modern aesthetics with historical preservation.",
+      "options": ["jarring", "discordant", "harmonious", "congruous", "clashing", "dissonant"],
+      "correct_answers": ["harmonious", "congruous"],
+      "explanation": "Successful blending suggests pleasing integration. Both 'harmonious' and 'congruous' describe elements that work well together."
+    },
+    {
+      "question": "The comedian's ______ humor relied on clever wordplay rather than crude jokes.",
+      "options": ["sophomoric", "vulgar", "witty", "refined", "ribald", "coarse"],
+      "correct_answers": ["witty", "refined"],
+      "explanation": "Clever wordplay suggests sophisticated humor. Both 'witty' and 'refined' describe cultured, intelligent comedy."
+    },
+    {
+      "question": "The researcher's ______ methodology ensured that her results would withstand rigorous scrutiny.",
+      "options": ["sloppy", "meticulous", "thorough", "negligent", "careless", "haphazard"],
+      "correct_answers": ["meticulous", "thorough"],
+      "explanation": "Results that withstand scrutiny suggest extreme care. Both 'meticulous' and 'thorough' describe painstaking attention to detail."
+    },
+    {
+      "question": "The general's ______ strategy defeated a much larger enemy force.",
+      "options": ["inept", "brilliant", "masterful", "incompetent", "clumsy", "maladroit"],
+      "correct_answers": ["brilliant", "masterful"],
+      "explanation": "Defeating a larger force suggests exceptional strategy. Both 'brilliant' and 'masterful' describe highly skilled execution."
+    },
+    {
+      "question": "The musician's ______ performance left the audience spellbound.",
+      "options": ["mediocre", "uninspired", "transcendent", "sublime", "ordinary", "pedestrian"],
+      "correct_answers": ["transcendent", "sublime"],
+      "explanation": "A spellbinding performance suggests extraordinary quality. Both 'transcendent' and 'sublime' describe surpassing normal excellence."
+    },
+    {
+      "question": "The negotiator's ______ approach finally broke the months-long stalemate.",
+      "options": ["inflexible", "rigid", "innovative", "ingenious", "obstinate", "uncompromising"],
+      "correct_answers": ["innovative", "ingenious"],
+      "explanation": "Breaking a stalemate suggests creative problem-solving. Both 'innovative' and 'ingenious' describe clever, original thinking."
+    },
+   {
+    "sentence": "Given the cutthroat nature of the competition, the startup's profits last quarter were considered ______ by its investors.",
+    "options": ["paltry", "meager", "impressive", "considerable", "robust", "lavish"],
+    "correct_answers": ["paltry", "meager"],
+    "explanation": "Both “paltry” and “meager” suggest very small or insufficient amounts of profit, which aligns with the context of minimal gains."
+  },
+  {
+    "sentence": "For his labyrinthine argument, the professor was accused of ____ explanations, leaving students confused.",
+    "options": ["transparent", "lucid", "convoluted", "intricate", "candid", "straightforward"],
+    "correct_answers": ["convoluted", "intricate"],
+    "explanation": "“Convoluted” and “intricate” both imply something complex and difficult to follow, matching the idea of a labyrinthine (complex) argument."
+  },
+  {
+    "sentence": "Despite the chaos around him, he remained ____ and continued to work calmly.",
+    "options": ["imperturbable", "unflappable", "anxious", "irritable", "agitated", "volatile"],
+    "correct_answers": ["imperturbable", "unflappable"],
+    "explanation": "Both “imperturbable” and “unflappable” describe someone who is not easily disturbed or upset, fitting his calm demeanor amid chaos."
+  },
+  {
+    "sentence": "After being unfairly criticized, she responded with ____ remarks that left everyone taken aback.",
+    "options": ["scathing", "caustic", "mild", "gentle", "conciliatory", "placatory"],
+    "correct_answers": ["scathing", "caustic"],
+    "explanation": "“Scathing” and “caustic” describe harsh, biting comments, which matches her sharp response to criticism."
+  },
+  {
+    "sentence": "He was known for his ____ wit, always ready with a clever retort.",
+    "options": ["incisive", "astute", "verbose", "rambling", "obtuse", "dull"],
+    "correct_answers": ["incisive", "astute"],
+    "explanation": "“Incisive” and “astute” both describe sharp, clever thinking, fitting his quick and clever wit."
+  },
+  {
+    "sentence": "As the deadline approached, the procrastinator's workload continued to ____.",
+    "options": ["dwindle", "diminish", "escalate", "increase", "multiply", "balloon"],
+    "correct_answers": ["dwindle", "diminish"],
+    "explanation": "Both “dwindle” and “diminish” mean to decrease gradually, matching the idea of a workload shrinking over time."
+  },
+  {
+    "sentence": "He was known for being candid, but in this interview he was unusually ____.",
+    "options": ["taciturn", "reticent", "talkative", "loquacious", "open", "forthright"],
+    "correct_answers": ["taciturn", "reticent"],
+    "explanation": "“Taciturn” and “reticent” both describe someone who is habitually uncommunicative or reserved, which contrasts his usual candidness in the context."
+  },
+  {
+    "sentence": "Carrying the ____ boxes up the stairs was a daunting task for the movers.",
+    "options": ["cumbersome", "weighty", "flimsy", "insubstantial", "light", "fragile"],
+    "correct_answers": ["cumbersome", "weighty"],
+    "explanation": "“Cumbersome” and “weighty” both imply that something is heavy or awkward to carry, matching the context of difficult boxes."
+  },
+  {
+    "sentence": "He gave a ____ presentation that covered all the main points without unnecessary detail.",
+    "options": ["succinct", "concise", "verbose", "wordy", "long-winded", "prolix"],
+    "correct_answers": ["succinct", "concise"],
+    "explanation": "“Succinct” and “concise” both mean brief and to the point, which fits the description of a clear presentation."
+  },
+  {
+    "sentence": "The hotel room was decorated with ____ furnishings that made guests feel pampered.",
+    "options": ["opulent", "sumptuous", "sparse", "austere", "minimalistic", "frugal"],
+    "correct_answers": ["opulent", "sumptuous"],
+    "explanation": "“Opulent” and “sumptuous” both suggest rich and luxurious features, matching the context of a lavish hotel room."
+  },
+  {
+    "sentence": "His explanation was so ____ that no one could tell whether he was apologizing or not.",
+    "options": ["equivocal", "ambiguous", "explicit", "unequivocal", "clear", "straightforward"],
+    "correct_answers": ["equivocal", "ambiguous"],
+    "explanation": "“Equivocal” and “ambiguous” both mean unclear or open to multiple interpretations, fitting the confusing nature of his explanation."
+  },
+  {
+    "sentence": "Her comment was dismissed as ____ noise, adding nothing to the discussion.",
+    "options": ["extraneous", "superfluous", "essential", "relevant", "important", "substantive"],
+    "correct_answers": ["extraneous", "superfluous"],
+    "explanation": "“Extraneous” and “superfluous” both indicate something unnecessary or irrelevant, matching the idea of adding nothing to the discussion."
+  },
+  {
+    "sentence": "His ____ approach to paperwork led to frequent errors in the accounting department.",
+    "options": ["slipshod", "negligent", "meticulous", "thorough", "careful", "punctilious"],
+    "correct_answers": ["slipshod", "negligent"],
+    "explanation": "“Slipshod” and “negligent” both describe a careless or poorly done approach, which aligns with the context of causing errors."
+  },
+  {
+    "sentence": "Climbing the mountain was a ____ task that tested the endurance of even the most experienced hikers.",
+    "options": ["arduous", "grueling", "easy", "effortless", "simple", "mundane"],
+    "correct_answers": ["arduous", "grueling"],
+    "explanation": "“Arduous” and “grueling” both mean very difficult and tiring, fitting the challenging nature of climbing a mountain."
+  },
+  {
+    "sentence": "His ____ attitude toward his studies meant that he often submitted assignments at the last minute.",
+    "options": ["lackadaisical", "indolent", "diligent", "eager", "conscientious", "meticulous"],
+    "correct_answers": ["lackadaisical", "indolent"],
+    "explanation": "“Lackadaisical” and “indolent” both imply a lazy or careless attitude, which explains why he procrastinated on assignments."
+  },
+  {
+    "sentence": "Such a phenomenon is quite ____, seen only under the most extraordinary conditions.",
+    "options": ["rare", "uncommon", "ordinary", "commonplace", "frequent", "usual"],
+    "correct_answers": ["rare", "uncommon"],
+    "explanation": "“Rare” and “uncommon” both mean not often occurring, fitting the context of a phenomenon seen only under special conditions."
+  },
+  {
+    "sentence": "The comedian's ____ stories had the audience roaring with laughter.",
+    "options": ["hilarious", "humorous", "boring", "dull", "solemn", "serious"],
+    "correct_answers": ["hilarious", "humorous"],
+    "explanation": "“Hilarious” and “humorous” both describe something funny or amusing, matching the effect of the comedian's stories."
+  },
+  {
+    "sentence": "The soldier's ____ actions during the crisis earned him a medal for valor.",
+    "options": ["heroic", "courageous", "cowardly", "timid", "fearful", "craven"],
+    "correct_answers": ["heroic", "courageous"],
+    "explanation": "“Heroic” and “courageous” both describe brave, admirable actions, fitting what earned him a medal for valor."
+  },
+  {
+    "sentence": "The scientist was known for her ____ observations that often led to breakthrough discoveries.",
+    "options": ["insightful", "perceptive", "superficial", "trivial", "mundane", "dull"],
+    "correct_answers": ["insightful", "perceptive"],
+    "explanation": "“Insightful” and “perceptive” both describe having deep understanding or sharp observations, fitting the context of breakthrough discoveries."
+  },
+  {
+    "sentence": "He was appointed as the ____ of the department due to his expertise.",
+    "options": ["chief", "head", "member", "subordinate", "clerk", "aide"],
+    "correct_answers": ["chief", "head"],
+    "explanation": "“Chief” and “head” both mean leader or principal person of a department, fitting the context of his appointment."
+  },
+  {
+    "sentence": "The students were ____ about the upcoming field trip, chatting excitedly as they boarded the bus.",
+    "options": ["eager", "enthusiastic", "indifferent", "apathetic", "uninterested", "bored"],
+    "correct_answers": ["eager", "enthusiastic"],
+    "explanation": "“Eager” and “enthusiastic” both describe strong interest and excitement, matching the students' behavior."
+  },
+{
+      "question": "The quantum physicist's ______ explanation of string theory left even her colleagues perplexed.",
+      "options": ["lucid", "abstruse", "esoteric", "transparent", "pellucid", "arcane"],
+      "correct_answers": ["abstruse", "esoteric"],
+      "explanation": "The context suggests the explanation was difficult to understand. Both 'abstruse' and 'esoteric' describe concepts that are obscure or known only to specialists."
+    },
+    {
+      "question": "The marine biologist discovered ______ species thriving near hydrothermal vents, challenging assumptions about life's requirements.",
+      "options": ["endemic", "indigenous", "ubiquitous", "cosmopolitan", "novel", "unprecedented"],
+      "correct_answers": ["novel", "unprecedented"],
+      "explanation": "The discovery challenged assumptions, suggesting newly found species. Both 'novel' and 'unprecedented' emphasize the newness of the discovery."
+    },
+    {
+      "question": "The medieval manuscript's ______ provenance made it invaluable to historians studying the Crusades.",
+      "options": ["dubious", "authentic", "verified", "spurious", "apocryphal", "certified"],
+      "correct_answers": ["authentic", "verified"],
+      "explanation": "An invaluable manuscript would need confirmed origins. Both 'authentic' and 'verified' establish the manuscript's genuineness."
+    },
+    {
+      "question": "The sociologist's ______ study of urban gangs provided unprecedented access to their hierarchical structures.",
+      "options": ["armchair", "ethnographic", "hands-on", "empirical", "theoretical", "speculative"],
+      "correct_answers": ["ethnographic", "empirical"],
+      "explanation": "Unprecedented access suggests firsthand research. Both 'ethnographic' and 'empirical' describe research based on observation and experience."
+    },
+    {
+      "question": "The paleontologist discovered ______ fossils that preserved soft tissues in remarkable detail.",
+      "options": ["petrified", "pristine", "degraded", "exceptional", "ordinary", "unremarkable"],
+      "correct_answers": ["pristine", "exceptional"],
+      "explanation": "Remarkably preserved soft tissues suggest extraordinary condition. Both 'pristine' and 'exceptional' convey superior preservation quality."
+    },
+    {
+      "question": "The astrophysicist proposed a ______ model of galaxy formation that incorporated dark matter dynamics.",
+      "options": ["simplistic", "sophisticated", "rudimentary", "nuanced", "basic", "primitive"],
+      "correct_answers": ["sophisticated", "nuanced"],
+      "explanation": "Incorporating dark matter suggests complexity. Both 'sophisticated' and 'nuanced' describe detailed, advanced models."
+    },
+    {
+      "question": "The linguist's ______ analysis of click languages in Southern Africa revealed unexpected grammatical complexities.",
+      "options": ["superficial", "cursory", "thorough", "exhaustive", "perfunctory", "slapdash"],
+      "correct_answers": ["thorough", "exhaustive"],
+      "explanation": "Revealing complexities suggests in-depth study. Both 'thorough' and 'exhaustive' describe comprehensive analysis."
+    },
+    {
+      "question": "The archaeologist's ______ excavation techniques ensured that even microscopic artifacts were preserved.",
+      "options": ["crude", "meticulous", "careless", "fastidious", "sloppy", "negligent"],
+      "correct_answers": ["meticulous", "fastidious"],
+      "explanation": "Preserving microscopic artifacts requires extreme care. Both 'meticulous' and 'fastidious' describe painstaking attention to detail."
+    },
+    {
+      "question": "The ecologist warned that ______ species could disrupt the entire estuary's food web.",
+      "options": ["native", "endemic", "invasive", "nonindigenous", "indigenous", "local"],
+      "correct_answers": ["invasive", "nonindigenous"],
+      "explanation": "Species that disrupt ecosystems are typically non-native. Both 'invasive' and 'nonindigenous' describe organisms introduced to new environments."
+    },
+    {
+      "question": "The geologist's ______ interpretation of the rock strata challenged conventional dating methods.",
+      "options": ["orthodox", "unconventional", "heretical", "mainstream", "established", "iconoclastic"],
+      "correct_answers": ["unconventional", "iconoclastic"],
+      "explanation": "Challenging conventions suggests non-traditional thinking. Both 'unconventional' and 'iconoclastic' describe approaches that break from norms."
+    },
+    {
+      "question": "The molecular biologist developed ______ techniques for gene editing that minimized off-target effects.",
+      "options": ["precise", "accurate", "imprecise", "sloppy", "crude", "approximate"],
+      "correct_answers": ["precise", "accurate"],
+      "explanation": "Minimizing off-target effects requires exactness. Both 'precise' and 'accurate' describe techniques with minimal error."
+    },
+    {
+      "question": "The climatologist's ______ data visualization made complex atmospheric patterns immediately comprehensible.",
+      "options": ["opaque", "lucid", "clear", "confusing", "bewildering", "cryptic"],
+      "correct_answers": ["lucid", "clear"],
+      "explanation": "Making complex patterns comprehensible requires clarity. Both 'lucid' and 'clear' describe easily understood presentations."
+    },
+    {
+      "question": "The virologist discovered ______ strains of the virus in the remote population.",
+      "options": ["novel", "unprecedented", "common", "ordinary", "typical", "conventional"],
+      "correct_answers": ["novel", "unprecedented"],
+      "explanation": "Discovering new strains in remote areas suggests previously unknown variants. Both 'novel' and 'unprecedented' emphasize newness."
+    },
+    {
+      "question": "The materials scientist developed a ______ alloy that maintained strength at extreme temperatures.",
+      "options": ["fragile", "delicate", "resilient", "robust", "brittle", "weak"],
+      "correct_answers": ["resilient", "robust"],
+      "explanation": "Maintaining strength under extremes suggests durability. Both 'resilient' and 'robust' describe materials that withstand stress."
+    },
+    {
+      "question": "The geneticist's ______ findings about gene expression opened new avenues for cancer research.",
+      "options": ["banal", "groundbreaking", "revolutionary", "ordinary", "commonplace", "pedestrian"],
+      "correct_answers": ["groundbreaking", "revolutionary"],
+      "explanation": "Findings that open new research avenues are highly significant. Both 'groundbreaking' and 'revolutionary' describe transformative discoveries."
+    },
+    {
+      "question": "The botanist identified ______ plant compounds with potential medicinal properties.",
+      "options": ["novel", "unprecedented", "toxic", "harmful", "dangerous", "lethal"],
+      "correct_answers": ["novel", "unprecedented"],
+      "explanation": "Potential medicinal properties suggest newly discovered compounds. Both 'novel' and 'unprecedented' emphasize the newness of the discovery."
+    },
+    {
+      "question": "The zoologist's ______ observations of primate behavior challenged established hierarchies.",
+      "options": ["anecdotal", "systematic", "methodical", "random", "haphazard", "unscientific"],
+      "correct_answers": ["systematic", "methodical"],
+      "explanation": "Observations that challenge scientific norms would need to be rigorous. Both 'systematic' and 'methodical' describe carefully planned research."
+    },
+    {
+      "question": "The biochemist's ______ experiments confirmed the enzyme's role in metabolic pathways.",
+      "options": ["definitive", "conclusive", "tentative", "provisional", "inconclusive", "ambiguous"],
+      "correct_answers": ["definitive", "conclusive"],
+      "explanation": "Confirmed roles suggest certain results. Both 'definitive' and 'conclusive' describe decisive experimental outcomes."
+    },
+    {
+      "question": "The neuroscientist proposed a ______ theory of consciousness that integrated quantum effects.",
+      "options": ["radical", "unorthodox", "conventional", "mainstream", "established", "traditional"],
+      "correct_answers": ["radical", "unorthodox"],
+      "explanation": "Integrating quantum effects suggests non-traditional thinking. Both 'radical' and 'unorthodox' describe departure from conventional theories."
+    },
+    {
+      "question": "The immunologist's ______ research on vaccine adjuvants improved immunization efficacy.",
+      "options": ["pioneering", "innovative", "derivative", "imitative", "unoriginal", "hackneyed"],
+      "correct_answers": ["pioneering", "innovative"],
+      "explanation": "Improved efficacy suggests novel approaches. Both 'pioneering' and 'innovative' describe original, advanced research."
+    },
+
+
+
+  {
+    "sentence": "For the storm relief effort, volunteers set up ____ shelters in the gymnasium to house displaced families.",
+    "options": ["makeshift", "temporary", "permanent", "durable", "solid", "established"],
+    "correct_answers": ["makeshift", "temporary"],
+    "explanation": "“Makeshift” and “temporary” both indicate something set up quickly for immediate use and not permanent, fitting the context of relief shelters."
+  },
+  {
+    "sentence": "Walking along the cliff's edge without a railing is ____ and could lead to serious injury.",
+    "options": ["hazardous", "perilous", "safe", "secure", "protected", "stable"],
+    "correct_answers": ["hazardous", "perilous"],
+    "explanation": "“Hazardous” and “perilous” both mean dangerous, matching the risk described by walking near a cliff's edge."
+  },
+  {
+    "sentence": "The novel was filled with ____ characters that failed to capture the reader's interest.",
+    "options": ["mundane", "trite", "unique", "original", "extraordinary", "fascinating"],
+    "correct_answers": ["mundane", "trite"],
+    "explanation": "“Mundane” and “trite” both describe something ordinary or unoriginal, fitting how the characters failed to interest readers."
+  },
+  {
+    "sentence": "The spy provided ____ information that was unknown to the general public.",
+    "options": ["classified", "covert", "public", "obvious", "overt", "well-known"],
+    "correct_answers": ["classified", "covert"],
+    "explanation": "“Classified” and “covert” both describe secret or hidden information, which fits the context of a spy's intelligence."
+  },
+  {
+    "sentence": "He has a tendency to ____ stories from his childhood, making them sound more exciting than they were.",
+    "options": ["embroider", "embellish", "simplify", "understate", "minimize", "clarify"],
+    "correct_answers": ["embroider", "embellish"],
+    "explanation": "“Embroider” and “embellish” both mean to add details, often exaggerating a story, fitting his tendency to make stories more exciting."
+  },
+  {
+    "sentence": "In his speech, the mayor ____ the efforts of the firefighters who battled the blaze, calling them heroes.",
+    "options": ["lauded", "extolled", "vilified", "criticized", "disparaged", "condemned"],
+    "correct_answers": ["lauded", "extolled"],
+    "explanation": "“Lauded” and “extolled” both mean to praise, matching the mayor's actions of honoring the firefighters."
+  },
+  {
+    "sentence": "The teacher forbade any talking during the exam to ensure a fair testing environment.",
+    "options": ["forbade", "prohibited", "allowed", "permitted", "tolerated", "encouraged"],
+    "correct_answers": ["forbade", "prohibited"],
+    "explanation": "“Forbade” and “prohibited” both mean to not allow something, fitting the rule against talking during an exam."
+  },
+  {
+    "sentence": "She was so proud that she ____ all help, insisting she could finish the project on her own.",
+    "options": ["spurned", "rebuffed", "accepted", "embraced", "welcomed", "indulged"],
+    "correct_answers": ["spurned", "rebuffed"],
+    "explanation": "“Spurned” and “rebuffed” both mean to reject or refuse, fitting her dismissive attitude toward offered help."
+  },
+  {
+    "sentence": "As summer ended, daylight hours would steadily ____ until winter, when days became very short.",
+    "options": ["diminish", "wane", "increase", "lengthen", "soar", "expand"],
+    "correct_answers": ["diminish", "wane"],
+    "explanation": "“Diminish” and “wane” both mean to decrease, fitting the seasonal decrease in daylight hours."
+  },
+  {
+    "sentence": "He gave an ____ answer, not committing to either side of the argument.",
+    "options": ["evasive", "noncommittal", "definitive", "clear", "forthright", "resolute"],
+    "correct_answers": ["evasive", "noncommittal"],
+    "explanation": "“Evasive” and “noncommittal” both mean unwilling to give a clear or direct answer, fitting his uncommitted response."
+  },
+  {
+    "sentence": "He is ____ in several programming languages, making him a valuable asset to the software firm.",
+    "options": ["adept", "skilled", "incompetent", "novice", "inexperienced", "untrained"],
+    "correct_answers": ["adept", "skilled"],
+    "explanation": "“Adept” and “skilled” both describe someone highly capable, fitting his expertise in programming languages."
+  },
+  {
+    "sentence": "She ____ arrogant people for their sense of entitlement.",
+    "options": ["detests", "abhors", "admires", "respects", "esteems", "praises"],
+    "correct_answers": ["detests", "abhors"],
+    "explanation": "“Detests” and “abhors” both mean hates deeply, fitting her strong dislike of arrogant people."
+  },
+  {
+    "sentence": "He remained ____ throughout the crisis, never showing panic despite the chaos around him.",
+    "options": ["composed", "serene", "frantic", "anxious", "distraught", "panicked"],
+    "correct_answers": ["composed", "serene"],
+    "explanation": "“Composed” and “serene” both mean calm and untroubled, describing his demeanor during the crisis."
+  },
+  {
+    "sentence": "He wrote an ____ letter to the editor, demanding immediate action on the issue of climate change.",
+    "options": ["indignant", "outraged", "cheerful", "delighted", "content", "pleased"],
+    "correct_answers": ["indignant", "outraged"],
+    "explanation": "“Indignant” and “outraged” both describe anger at injustice, fitting the tone of his demand for action."
+  },
+  {
+    "sentence": "They ____ evidence to bolster their argument, rather than relying on the actual data.",
+    "options": ["manufactured", "fabricated", "discovered", "uncovered", "validated", "substantiated"],
+    "correct_answers": ["manufactured", "fabricated"],
+    "explanation": "“Manufactured” and “fabricated” both mean made up or falsified, fitting the idea that they did not use real evidence."
+  },
+  {
+    "sentence": "Racial prejudice ____ through every section of the society, making it difficult to enact change.",
+    "options": ["pervaded", "permeated", "vanished", "dissipated", "diminished", "disappeared"],
+    "correct_answers": ["pervaded", "permeated"],
+    "explanation": "“Pervaded” and “permeated” both mean spread throughout, which fits how prejudice was found in every section of society."
+  },
+  {
+    "sentence": "The manager ____ the employee for the mistake in a harsh tone.",
+    "options": ["rebuked", "chastised", "praised", "commended", "celebrated", "honored"],
+    "correct_answers": ["rebuked", "chastised"],
+    "explanation": "“Rebuked” and “chastised” both mean scolded or reprimanded, fitting the manager's harsh response to the error."
+  },
+  {
+    "sentence": "He was ____ to every request from his colleagues, always willing to help or listen.",
+    "options": ["amenable", "accommodating", "obstinate", "rigid", "brusque", "recalcitrant"],
+    "correct_answers": ["amenable", "accommodating"],
+    "explanation": "“Amenable” and “accommodating” both mean willing to agree or be helpful, fitting his cooperative nature."
+  },
+  {
+    "sentence": "The storm brought ____ rain and winds strong enough to uproot trees.",
+    "options": ["torrential", "violent", "gentle", "light", "mild", "moderate"],
+    "correct_answers": ["torrential", "violent"],
+    "explanation": "“Torrential” and “violent” both suggest intense and heavy, fitting the severe storm conditions."
+  },
+  {
+    "sentence": "During the discussion, he became ____ toward those who disagreed with him.",
+    "options": ["belligerent", "combative", "friendly", "cordial", "amiable", "agreeable"],
+    "correct_answers": ["belligerent", "combative"],
+    "explanation": "“Belligerent” and “combative” both describe an aggressive and argumentative attitude, matching his reaction to disagreement."
+  },
+  {
+    "sentence": "The punishment was ____ for such a minor offense, surprising everyone in the courtroom.",
+    "options": ["draconian", "excessive", "lenient", "mild", "moderate", "merciful"],
+    "correct_answers": ["draconian", "excessive"],
+    "explanation": "“Draconian” and “excessive” both describe something overly harsh, fitting the idea that the punishment was too severe."
+  },
+  {
+    "sentence": "He felt ____ about the upcoming interview and couldn't stop pacing.",
+    "options": ["apprehensive", "nervous", "confident", "complacent", "relaxed", "carefree"],
+    "correct_answers": ["apprehensive", "nervous"],
+    "explanation": "“Apprehensive” and “nervous” both describe being anxious, fitting his restless behavior before the interview."
+  },
+  {
+    "sentence": "Despite evidence to the contrary, he remained ____ in his beliefs.",
+    "options": ["adamant", "obstinate", "flexible", "yielding", "compliant", "open-minded"],
+    "correct_answers": ["adamant", "obstinate"],
+    "explanation": "“Adamant” and “obstinate” both describe someone stubborn and unwilling to change their mind, matching the context."
+  },
+  {
+    "sentence": "He showed remarkable ____ in the face of provocation, refusing to react with anger.",
+    "options": ["restraint", "self-control", "indulgence", "abandon", "recklessness", "passion"],
+    "correct_answers": ["restraint", "self-control"],
+    "explanation": "“Restraint” and “self-control” both mean the ability to hold back impulses, fitting his calm reaction under provocation."
+  },
+  {
+    "sentence": "His ____ attitude toward safety regulations eventually got him into trouble.",
+    "options": ["heedless", "reckless", "cautious", "careful", "vigilant", "prudent"],
+    "correct_answers": ["heedless", "reckless"],
+    "explanation": "“Heedless” and “reckless” both describe a lack of concern for danger, fitting his disregard for safety rules."
+  },
+  {
+    "sentence": "She ____ any form of dishonesty and would never tolerate lying.",
+    "options": ["loathed", "despised", "loved", "cherished", "admired", "tolerated"],
+    "correct_answers": ["loathed", "despised"],
+    "explanation": "“Loathed” and “despised” both mean deeply disliked, fitting her intense aversion to dishonesty."
+  },
+  {
+    "sentence": "He is very ____ about his coffee; it must be brewed in a very specific way.",
+    "options": ["particular", "fussy", "undemanding", "easygoing", "casual", "lax"],
+    "correct_answers": ["particular", "fussy"],
+    "explanation": "“Particular” and “fussy” both describe someone who is very selective or picky, fitting his specific coffee preferences."
+  },
+  {
+    "sentence": "She remained ____ about finding a solution, even in the face of seemingly insurmountable obstacles.",
+    "options": ["optimistic", "hopeful", "pessimistic", "doubtful", "negative", "cynical"],
+    "correct_answers": ["optimistic", "hopeful"],
+    "explanation": "“Optimistic” and “hopeful” both describe expecting a positive outcome, fitting her attitude despite challenges."
+  },
+  {
+    "sentence": "She provided a ____ explanation of her research, leaving no question unanswered.",
+    "options": ["meticulous", "comprehensive", "cursory", "sketchy", "incomplete", "vague"],
+    "correct_answers": ["meticulous", "comprehensive"],
+    "explanation": "“Meticulous” and “comprehensive” both describe something thorough and detailed, fitting a complete research explanation."
+  },
+    {
+      "question": "The writer's ______ prose captured the subtle beauty of everyday life.",
+      "options": ["clumsy", "lyrical", "poetic", "graceless", "awkward", "maladroit"],
+      "correct_answers": ["lyrical", "poetic"],
+      "explanation": "Capturing subtle beauty suggests elegant writing. Both 'lyrical' and 'poetic' describe expressive, aesthetically pleasing language."
+    },
+    {
+      "question": "The athlete's ______ performance set a new world record.",
+      "options": ["lackluster", "unprecedented", "legendary", "ordinary", "commonplace", "mediocre"],
+      "correct_answers": ["unprecedented", "legendary"],
+      "explanation": "A world-record performance suggests historic achievement. Both 'unprecedented' and 'legendary' describe unparalleled excellence."
+    },
     {
       "question": "The mayor’s decision was considered ______; it reflected a careful balance of competing interests.",
       "options": ["hasty", "judicious", "impetuous", "prudent", "rash", "reckless"],
