@@ -575,6 +575,167 @@
       "answer_i": "late",
       "answer_ii": "stellar",
       "explanation": "Despite being 'late', the employee was 'stellar' in performance."
-    }
+    },
+{
+  "question": "While the mayor's speech was intended to be (i) ______, its vague promises and lack of specifics left the audience (ii) ______.",
+  "options_i": ["inspiring", "conciliatory", "incendiary"],
+  "options_ii": ["elated", "skeptical", "supportive"],
+  "answer_i": "inspiring",
+  "answer_ii": "skeptical",
+  "explanation": "Though intended to be 'inspiring', vague content made the audience 'skeptical'."
+},
+{
+  "question": "The critic’s review, though seemingly (i) ______, was actually quite (ii) ______ when read carefully.",
+  "options_i": ["glowing", "neutral", "dismissive"],
+  "options_ii": ["insulting", "astute", "sarcastic"],
+  "answer_i": "neutral",
+  "answer_ii": "sarcastic",
+  "explanation": "A 'neutral'-seeming review turned out to be 'sarcastic' upon close reading."
+},
+{
+  "question": "Her approach to business was marked by a(n) (i) ______ that often (ii) ______ even her most experienced colleagues.",
+  "options_i": ["audacity", "modesty", "deliberation"],
+  "options_ii": ["bewildered", "impressed", "angered"],
+  "answer_i": "audacity",
+  "answer_ii": "bewildered",
+  "explanation": "'Audacity' (boldness) often surprises or 'bewilders' others."
+},
+{
+  "question": "Although the data appeared (i) ______ at first glance, a deeper analysis revealed a (ii) ______ pattern.",
+  "options_i": ["erratic", "cohesive", "unreliable"],
+  "options_ii": ["consistent", "trivial", "chaotic"],
+  "answer_i": "erratic",
+  "answer_ii": "consistent",
+  "explanation": "Initial impressions of 'erratic' data concealed a 'consistent' pattern underneath."
+},
+{
+  "question": "The speaker’s (i) ______ style made the lecture difficult to follow, but the substance of her argument was surprisingly (ii) ______.",
+  "options_i": ["disjointed", "charismatic", "didactic"],
+  "options_ii": ["lucid", "incoherent", "controversial"],
+  "answer_i": "disjointed",
+  "answer_ii": "lucid",
+  "explanation": "'Disjointed' delivery contrasts with 'lucid' content."
+},
+{
+  "question": "Despite its (i) ______ appearance, the sculpture was created using a highly (ii) ______ process.",
+  "options_i": ["simple", "ornate", "delicate"],
+  "options_ii": ["elaborate", "rudimentary", "accidental"],
+  "answer_i": "simple",
+  "answer_ii": "elaborate",
+  "explanation": "The 'simple' look of the sculpture hides an 'elaborate' creation process."
+},
+{
+  "question": "The committee’s decision was not (i) ______ but rather the result of a(n) (ii) ______ evaluation of all evidence.",
+  "options_i": ["arbitrary", "timely", "biased"],
+  "options_ii": ["hasty", "thorough", "superficial"],
+  "answer_i": "arbitrary",
+  "answer_ii": "thorough",
+  "explanation": "It was not 'arbitrary' but instead 'thoroughly' considered."
+},
+{
+  "question": "Although her methods were (i) ______, the results she achieved were undeniably (ii) ______.",
+  "options_i": ["unorthodox", "predictable", "conventional"],
+  "options_ii": ["impressive", "mediocre", "expected"],
+  "answer_i": "unorthodox",
+  "answer_ii": "impressive",
+  "explanation": "'Unorthodox' methods produced 'impressive' results."
+},
+{
+  "question": "His (i) ______ storytelling style often (ii) ______ the deeper philosophical themes of his novels.",
+  "options_i": ["lighthearted", "tedious", "abstract"],
+  "options_ii": ["obscures", "enhances", "dilutes"],
+  "answer_i": "lighthearted",
+  "answer_ii": "obscures",
+  "explanation": "'Lighthearted' tone may 'obscure' deeper meanings."
+},
+{
+  "question": "Though the procedure appears (i) ______, it requires a(n) (ii) ______ degree of precision and control.",
+  "options_i": ["routine", "complicated", "mysterious"],
+  "options_ii": ["high", "unnecessary", "minimal"],
+  "answer_i": "routine",
+  "answer_ii": "high",
+  "explanation": "A 'routine'-looking task demands a 'high' level of care."
+},
+{
+  "question": "The CEO’s statement was intended to be (i) ______, but it ended up (ii) ______ employees instead.",
+  "options_i": ["reassuring", "ambiguous", "honest"],
+  "options_ii": ["motivating", "alarming", "uniting"],
+  "answer_i": "reassuring",
+  "answer_ii": "alarming",
+  "explanation": "A 'reassuring' message that has the opposite effect becomes 'alarming'."
+},
+{
+  "question": "Despite the (i) ______ tone of the article, its conclusions were surprisingly (ii) ______.",
+  "options_i": ["measured", "provocative", "humorous"],
+  "options_ii": ["reasonable", "alarmist", "radical"],
+  "answer_i": "provocative",
+  "answer_ii": "reasonable",
+  "explanation": "'Provocative' tone contrasts with a 'reasonable' conclusion."
+},
+{
+  "question": "His financial forecasts were (i) ______ by investors until multiple failed predictions (ii) ______ his credibility.",
+  "options_i": ["celebrated", "ignored", "trusted"],
+  "options_ii": ["cemented", "undermined", "restored"],
+  "answer_i": "trusted",
+  "answer_ii": "undermined",
+  "explanation": "Forecasts were initially 'trusted', but later 'undermined' by failure."
+},
+{
+  "question": "The memoir was (i) ______ in its honesty, revealing details that many would prefer to (ii) ______.",
+  "options_i": ["candid", "evasive", "idealized"],
+  "options_ii": ["suppress", "emphasize", "invent"],
+  "answer_i": "candid",
+  "answer_ii": "suppress",
+  "explanation": "'Candid' memoir reveals what others would rather 'suppress'."
+},
+{
+  "question": "Though her tone was (i) ______, the message she conveyed was undeniably (ii) ______.",
+  "options_i": ["blunt", "humble", "casual"],
+  "options_ii": ["urgent", "trivial", "irrelevant"],
+  "answer_i": "casual",
+  "answer_ii": "urgent",
+  "explanation": "A 'casual' tone can still deliver an 'urgent' message."
+},
+{
+  "question": "The play was initially (i) ______ by critics, but over time, it came to be seen as a (ii) ______ work of art.",
+  "options_i": ["derided", "celebrated", "ignored"],
+  "options_ii": ["pivotal", "forgettable", "controversial"],
+  "answer_i": "derided",
+  "answer_ii": "pivotal",
+  "explanation": "'Derided' at first, but later acknowledged as 'pivotal'."
+},
+{
+  "question": "Her argument was both (i) ______ and (ii) ______, making it difficult for opponents to refute.",
+  "options_i": ["coherent", "vague", "aggressive"],
+  "options_ii": ["persuasive", "redundant", "flawed"],
+  "answer_i": "coherent",
+  "answer_ii": "persuasive",
+  "explanation": "'Coherent' and 'persuasive' arguments are hard to refute."
+},
+{
+  "question": "Although his ideas were (i) ______, they were presented in such a (ii) ______ manner that few people took them seriously.",
+  "options_i": ["visionary", "derivative", "dangerous"],
+  "options_ii": ["frivolous", "precise", "compelling"],
+  "answer_i": "visionary",
+  "answer_ii": "frivolous",
+  "explanation": "Great ideas ('visionary') lose impact if delivered in a 'frivolous' way."
+},
+{
+  "question": "The campaign’s messaging was not only (i) ______ but also (ii) ______, resulting in widespread confusion.",
+  "options_i": ["conflicting", "inspiring", "transparent"],
+  "options_ii": ["coherent", "opaque", "persuasive"],
+  "answer_i": "conflicting",
+  "answer_ii": "opaque",
+  "explanation": "'Conflicting' and 'opaque' messaging leads to confusion."
+},
+{
+  "question": "Though the researcher’s conclusions were initially (i) ______, subsequent findings (ii) ______ her theories.",
+  "options_i": ["controversial", "celebrated", "ignored"],
+  "options_ii": ["supported", "refuted", "validated"],
+  "answer_i": "controversial",
+  "answer_ii": "supported",
+  "explanation": "A 'controversial' theory can be 'supported' by later research."
+}
+
 ]
 }
