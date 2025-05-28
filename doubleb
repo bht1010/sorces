@@ -200,539 +200,381 @@
       "answer_ii": "remarkable",
       "explanation": "An 'elegant' solution would be 'remarkable' for its simplicity."
     },
-
-    "question": "While the politician's speech was (i) ______ in its rhetoric, it remained (ii) ______ on substantive policy details.",
-    "options_i": ["florid", "laconic", "sober"],
-    "options_ii": ["voluble", "mute", "explicit"],
-    "answer_i": "florid",
-    "answer_ii": "mute",
-    "explanation": "'Florid' (ornate) rhetoric contrasts with being 'mute' (silent) on substance."
-  },
-  {
-    "question": "The professor’s lectures were so (i) ______ that students often left class more confused than enlightened; her writing, however, was surprisingly (ii) ______.",
-    "options_i": ["abstruse", "lucid", "succinct"],
-    "options_ii": ["opaque", "clarifying", "convoluted"],
-    "answer_i": "abstruse",
-    "answer_ii": "clarifying",
-    "explanation": "'Abstruse' means difficult to understand, while 'clarifying' indicates the opposite."
-  },
-  {
-    "question": "Although the scientist was known for her (i) ______ approach to research, her latest theory was surprisingly (ii) ______.",
-    "options_i": ["methodical", "careless", "dogmatic"],
-    "options_ii": ["speculative", "empirical", "pedestrian"],
-    "answer_i": "methodical",
-    "answer_ii": "speculative",
-    "explanation": "The contrast lies between a 'methodical' past and a 'speculative' current theory."
-  },
-  {
-    "question": "The artist’s early works were (i) ______, but her recent exhibitions have been surprisingly (ii) ______.",
-    "options_i": ["derivative", "original", "inspired"],
-    "options_ii": ["hackneyed", "innovative", "tedious"],
-    "answer_i": "derivative",
-    "answer_ii": "innovative",
-    "explanation": "'Derivative' implies copying, while 'innovative' indicates originality."
-  },
-  {
-    "question": "Though initially (i) ______ by the unexpected announcement, she quickly regained her (ii) ______.",
-    "options_i": ["shaken", "elated", "indifferent"],
-    "options_ii": ["equanimity", "confusion", "despair"],
-    "answer_i": "shaken",
-    "answer_ii": "equanimity",
-    "explanation": "Being 'shaken' contrasts with regaining 'equanimity' (mental calmness)."
-  },
-  {
-    "question": "The diplomat’s comments, though seemingly (i) ______, were actually quite (ii) ______ when analyzed closely.",
-    "options_i": ["innocuous", "provocative", "blunt"],
-    "options_ii": ["incendiary", "banal", "genuine"],
-    "answer_i": "innocuous",
-    "answer_ii": "incendiary",
-    "explanation": "'Innocuous' means harmless, yet 'incendiary' implies inflammatory upon analysis."
-  },
-  {
-    "question": "The athlete’s performance was (i) ______ by his injury, yet his determination remained (ii) ______.",
-    "options_i": ["hampered", "exacerbated", "boosted"],
-    "options_ii": ["unwavering", "tentative", "fragile"],
-    "answer_i": "hampered",
-    "answer_ii": "unwavering",
-    "explanation": "Injury 'hampered' his performance, but his 'unwavering' determination persisted."
-  },
-  {
-    "question": "The scientist’s proposal was initially (i) ______, but after rigorous testing, it was considered (ii) ______.",
-    "options_i": ["dismissed", "celebrated", "verified"],
-    "options_ii": ["tenable", "untenable", "controversial"],
-    "answer_i": "dismissed",
-    "answer_ii": "tenable",
-    "explanation": "'Dismissed' initially, but later shown to be 'tenable' (defensible)."
-  },
-  {
-    "question": "The film's (i) ______ plot was made watchable only by the actors’ (ii) ______ performances.",
-    "options_i": ["hackneyed", "unpredictable", "inspired"],
-    "options_ii": ["mediocre", "compelling", "underwhelming"],
-    "answer_i": "hackneyed",
-    "answer_ii": "compelling",
-    "explanation": "A 'hackneyed' (overused) plot saved by 'compelling' acting."
-  },
-  {
-    "question": "Despite his (i) ______ exterior, he was known to be surprisingly (ii) ______.",
-    "options_i": ["stoic", "animated", "volatile"],
-    "options_ii": ["empathetic", "detached", "abrasive"],
-    "answer_i": "stoic",
-    "answer_ii": "empathetic",
-    "explanation": "'Stoic' refers to lack of emotion; 'empathetic' shows emotional depth."
-  },
-  {
-    "question": "Her argument was both (i) ______ and (ii) ______, leaving no room for rebuttal.",
-    "options_i": ["cogent", "ambiguous", "peripheral"],
-    "options_ii": ["persuasive", "tentative", "disjointed"],
-    "answer_i": "cogent",
-    "answer_ii": "persuasive",
-    "explanation": "A 'cogent' and 'persuasive' argument is logically convincing."
-  },
-  {
-    "question": "The manager's style was (i) ______, preferring consensus over command, but in crises, he became notably (ii) ______.",
-    "options_i": ["democratic", "autocratic", "passive"],
-    "options_ii": ["assertive", "disengaged", "indecisive"],
-    "answer_i": "democratic",
-    "answer_ii": "assertive",
-    "explanation": "A 'democratic' leader becoming 'assertive' during crises shows contrast."
-  },
-  {
-    "question": "Even the most (i) ______ critics found the director’s new film (ii) ______.",
-    "options_i": ["stringent", "indulgent", "candid"],
-    "options_ii": ["commendable", "derivative", "forgettable"],
-    "answer_i": "stringent",
-    "answer_ii": "commendable",
-    "explanation": "A tough ('stringent') critic praising something as 'commendable' is notable."
-  },
-  {
-    "question": "The town, once (i) ______ with activity, now lay (ii) ______ and abandoned.",
-    "options_i": ["teeming", "tranquil", "somnolent"],
-    "options_ii": ["desolate", "resplendent", "humming"],
-    "answer_i": "teeming",
-    "answer_ii": "desolate",
-    "explanation": "The contrast between 'teeming' and 'desolate' emphasizes decline."
-  },
-  {
-    "question": "The debate was marred by (i) ______ arguments and (ii) ______ evidence.",
-    "options_i": ["spurious", "coherent", "meticulous"],
-    "options_ii": ["tenuous", "robust", "copious"],
-    "answer_i": "spurious",
-    "answer_ii": "tenuous",
-    "explanation": "'Spurious' arguments backed by 'tenuous' (weak) evidence reflect poor reasoning."
-  },
-  {
-    "question": "His (i) ______ demeanor made him popular among students, but colleagues found his lack of (ii) ______ troubling.",
-    "options_i": ["amiable", "austere", "aloof"],
-    "options_ii": ["professionalism", "enthusiasm", "candor"],
-    "answer_i": "amiable",
-    "answer_ii": "professionalism",
-    "explanation": "'Amiable' (friendly) vs. lacking 'professionalism' shows differing perspectives."
-  },
-  {
-    "question": "Though the team had (i) ______ talent, their coordination was so poor that their overall performance was (ii) ______.",
-    "options_i": ["considerable", "mediocre", "insufficient"],
-    "options_ii": ["lackluster", "stellar", "impressive"],
-    "answer_i": "considerable",
-    "answer_ii": "lackluster",
-    "explanation": "A 'considerable' talent pool doesn't guarantee 'stellar' results."
-  },
-  {
-    "question": "The biography is both (i) ______ and (ii) ______, offering readers a vivid and accurate portrayal.",
-    "options_i": ["evocative", "hagiographic", "misleading"],
-    "options_ii": ["meticulous", "incomplete", "revisionist"],
-    "answer_i": "evocative",
-    "answer_ii": "meticulous",
-    "explanation": "'Evocative' and 'meticulous' suggest detailed and emotional writing."
-  },
-  {
-    "question": "Although known for her (i) ______ nature, her recent outburst was surprisingly (ii) ______.",
-    "options_i": ["placid", "volatile", "irate"],
-    "options_ii": ["intemperate", "composed", "restrained"],
-    "answer_i": "placid",
-    "answer_ii": "intemperate",
-    "explanation": "A 'placid' person acting 'intemperate' is a marked deviation."
-  },
-  {
-    "question": "The plan was initially (i) ______ by the board but later deemed (ii) ______ after further analysis.",
-    "options_i": ["endorsed", "rejected", "applauded"],
-    "options_ii": ["feasible", "untenable", "innovative"],
-    "answer_i": "rejected",
-    "answer_ii": "feasible",
-    "explanation": "'Rejected' first, then found 'feasible' (practical) later."
-  },
-  {
-    "question": "Despite the (i) ______ conditions, the hikers remained (ii) ______ in their resolve to reach the summit.",
-    "options_i": ["adverse", "ideal", "bucolic"],
-    "options_ii": ["steadfast", "tentative", "dubious"],
-    "answer_i": "adverse",
-    "answer_ii": "steadfast",
-    "explanation": "'Adverse' conditions met with 'steadfast' (firm) determination."
-  },
-  {
-    "question": "Though seemingly (i) ______, the remark was actually meant to be (ii) ______.",
-    "options_i": ["innocent", "malicious", "explicit"],
-    "options_ii": ["sarcastic", "benevolent", "obvious"],
-    "answer_i": "innocent",
-    "answer_ii": "sarcastic",
-    "explanation": "Something 'innocent' on the surface can hide 'sarcastic' intent."
-  },
-  {
-    "question": "The essay was (i) ______ in tone but (ii) ______ in argumentation, lacking any coherent logic.",
-    "options_i": ["elegant", "aggressive", "colloquial"],
-    "options_ii": ["disjointed", "incisive", "thorough"],
-    "answer_i": "elegant",
-    "answer_ii": "disjointed",
-    "explanation": "An 'elegant' tone doesn't save a 'disjointed' (poorly structured) argument."
-  },
-  {
-    "question": "The book’s popularity is largely due to its (i) ______ narrative style and (ii) ______ characters.",
-    "options_i": ["engaging", "pedestrian", "esoteric"],
-    "options_ii": ["relatable", "unrealistic", "anachronistic"],
-    "answer_i": "engaging",
-    "answer_ii": "relatable",
-    "explanation": "'Engaging' writing and 'relatable' characters attract readers."
-  },
-  {
-    "question": "The speaker’s message was (i) ______ but delivered in such a (ii) ______ manner that many in the audience missed the point.",
-    "options_i": ["profound", "banal", "trivial"],
-    "options_ii": ["monotonous", "dynamic", "coherent"],
-    "answer_i": "profound",
-    "answer_ii": "monotonous",
-    "explanation": "A 'profound' message can be lost if spoken 'monotonously'."
-  },
-
- {
-    "question": "Despite the (i) ______ nature of the evidence, the jury found the defendant (ii) ______.",
-    "options_i": ["compelling", "circumstantial", "overwhelming"],
-    "options_ii": ["guilty", "innocent", "culpable"],
-    "answer_i": "circumstantial",
-    "answer_ii": "guilty",
-    "explanation": "Even though the evidence was 'circumstantial' (indirect), the jury concluded the defendant was 'guilty'."
-  },
-  {
-    "question": "The scientist's theory was initially (i) ______ by peers, but subsequent experiments provided (ii) ______ support.",
-    "options_i": ["lauded", "dismissed", "ignored"],
-    "options_ii": ["empirical", "anecdotal", "tenuous"],
-    "answer_i": "dismissed",
-    "answer_ii": "empirical",
-    "explanation": "The theory was first 'dismissed' but later gained 'empirical' (observable) support."
-  },
-  {
-    "question": "Her (i) ______ demeanor often masked a (ii) ______ intellect.",
-    "options_i": ["gregarious", "stoic", "melancholic"],
-    "options_ii": ["keen", "dull", "superficial"],
-    "answer_i": "stoic",
-    "answer_ii": "keen",
-    "explanation": "A 'stoic' (unemotional) demeanor hiding a 'keen' (sharp) intellect."
-  },
-  {
-    "question": "The novel's plot was (i) ______, yet its character development was remarkably (ii) ______.",
-    "options_i": ["predictable", "convoluted", "innovative"],
-    "options_ii": ["flat", "nuanced", "superficial"],
-    "answer_i": "predictable",
-    "answer_ii": "nuanced",
-    "explanation": "While the plot was 'predictable', the characters were 'nuanced' (subtly complex)."
-  },
-  {
-    "question": "Though the artist's early works were (i) ______, his later pieces showed a (ii) ______ evolution.",
-    "options_i": ["derivative", "original", "uninspired"],
-    "options_ii": ["radical", "stagnant", "subtle"],
-    "answer_i": "derivative",
-    "answer_ii": "radical",
-    "explanation": "From 'derivative' (imitative) beginnings to a 'radical' (significant) change."
-  },
-  {
-    "question": "The politician's speech was filled with (i) ______ promises, leaving the audience (ii) ______.",
-    "options_i": ["vague", "concrete", "ambitious"],
-    "options_ii": ["inspired", "skeptical", "apathetic"],
-    "answer_i": "vague",
-    "answer_ii": "skeptical",
-    "explanation": "'Vague' promises led to a 'skeptical' (doubtful) audience."
-  },
-  {
-    "question": "While the experiment's results were (i) ______, the methodology was considered (ii) ______.",
-    "options_i": ["conclusive", "ambiguous", "promising"],
-    "options_ii": ["rigorous", "flawed", "innovative"],
-    "answer_i": "promising",
-    "answer_ii": "flawed",
-    "explanation": "Results were 'promising', but the methodology had 'flawed' (defective) aspects."
-  },
-  {
-    "question": "The CEO's decision was both (i) ______ and (ii) ______, surprising the entire board.",
-    "options_i": ["prudent", "impulsive", "calculated"],
-    "options_ii": ["unprecedented", "predictable", "conventional"],
-    "answer_i": "impulsive",
-    "answer_ii": "unprecedented",
-    "explanation": "An 'impulsive' and 'unprecedented' (never done before) decision."
-  },
-  {
-    "question": "The documentary was (i) ______ in its portrayal of events, yet it managed to be (ii) ______.",
-    "options_i": ["biased", "objective", "sensational"],
-    "options_ii": ["informative", "misleading", "entertaining"],
-    "answer_i": "objective",
-    "answer_ii": "informative",
-    "explanation": "An 'objective' (unbiased) and 'informative' documentary."
-  },
-  {
-    "question": "Her approach to the problem was (i) ______, resulting in a solution that was both (ii) ______ and effective.",
-    "options_i": ["innovative", "conventional", "haphazard"],
-    "options_ii": ["novel", "redundant", "ineffective"],
-    "answer_i": "innovative",
-    "answer_ii": "novel",
-    "explanation": "An 'innovative' approach led to a 'novel' (new) and effective solution."
-  },
-  {
-    "question": "The speaker's tone was (i) ______, making the audience feel (ii) ______.",
-    "options_i": ["patronizing", "enthusiastic", "monotonous"],
-    "options_ii": ["engaged", "alienated", "bored"],
-    "answer_i": "patronizing",
-    "answer_ii": "alienated",
-    "explanation": "A 'patronizing' (condescending) tone led to an 'alienated' audience."
-  },
-  {
-    "question": "The company's growth was (i) ______, attributed to its (ii) ______ strategies.",
-    "options_i": ["stagnant", "exponential", "modest"],
-    "options_ii": ["innovative", "outdated", "conservative"],
-    "answer_i": "exponential",
-    "answer_ii": "innovative",
-    "explanation": "'Exponential' growth due to 'innovative' strategies."
-  },
-  {
-    "question": "Though his arguments were (i) ______, they were presented in a (ii) ______ manner.",
-    "options_i": ["valid", "fallacious", "compelling"],
-    "options_ii": ["disorganized", "coherent", "persuasive"],
-    "answer_i": "valid",
-    "answer_ii": "disorganized",
-    "explanation": "'Valid' arguments delivered in a 'disorganized' way."
-  },
-  {
-    "question": "The landscape was (i) ______, evoking a sense of (ii) ______ in the travelers.",
-    "options_i": ["barren", "lush", "monotonous"],
-    "options_ii": ["awe", "indifference", "melancholy"],
-    "answer_i": "lush",
-    "answer_ii": "awe",
-    "explanation": "A 'lush' (rich) landscape inspiring 'awe' (wonder)."
-  },
-  {
-    "question": "His response was (i) ______, reflecting his (ii) ______ understanding of the issue.",
-    "options_i": ["evasive", "direct", "ambiguous"],
-    "options_ii": ["comprehensive", "limited", "profound"],
-    "answer_i": "evasive",
-    "answer_ii": "limited",
-    "explanation": "An 'evasive' answer indicating a 'limited' understanding."
-  },
-  {
-    "question": "The film was (i) ______ in its storytelling but (ii) ______ in its visuals.",
-    "options_i": ["lackluster", "engaging", "tedious"],
-    "options_ii": ["stunning", "mediocre", "uninspired"],
-    "answer_i": "tedious",
-    "answer_ii": "stunning",
-    "explanation": "A 'tedious' story complemented by 'stunning' visuals."
-  },
-  {
-    "question": "The lecture was (i) ______, leaving students (ii) ______ about the topic.",
-    "options_i": ["incoherent", "illuminating", "tedious"],
-    "options_ii": ["confused", "enlightened", "indifferent"],
-    "answer_i": "illuminating",
-    "answer_ii": "enlightened",
-    "explanation": "An 'illuminating' lecture that made students feel 'enlightened'."
-  },
-  {
-    "question": "Her explanation was (i) ______, yet it failed to (ii) ______ the main issue.",
-    "options_i": ["comprehensive", "verbose", "concise"],
-    "options_ii": ["address", "obscure", "highlight"],
-    "answer_i": "verbose",
-    "answer_ii": "address",
-    "explanation": "A 'verbose' (wordy) explanation that didn't 'address' the issue."
-  },
-  {
-    "question": "The team's performance was (i) ______, a result of their (ii) ______ preparation.",
-    "options_i": ["lackluster", "stellar", "mediocre"],
-    "options_ii": ["meticulous", "haphazard", "adequate"],
-    "answer_i": "lackluster",
-    "answer_ii": "haphazard",
-    "explanation": "A 'lackluster' performance due to 'haphazard' (disorganized) preparation."
-  },
-  {
-    "question": "The author's style is (i) ______, making the complex subject matter (ii) ______ to readers.",
-    "options_i": ["lucid", "obscure", "convoluted"],
-    "options_ii": ["accessible", "daunting", "incomprehensible"],
-    "answer_i": "lucid",
-    "answer_ii": "accessible",
-    "explanation": "A 'lucid' (clear) style that makes content 'accessible'."
-  },
-  {
-    "question": "The policy was (i) ______ in theory but proved (ii) ______ in practice.",
-    "options_i": ["sound", "flawed", "idealistic"],
-    "options_ii": ["effective", "impractical", "beneficial"],
-    "answer_i": "sound",
-    "answer_ii": "impractical",
-    "explanation": "A 'sound' (logical) policy that was 'impractical' when applied."
-  },
-
-{
-    "question": "The documentary was (i) ______ in its portrayal of events, yet it managed to be (ii) ______.",
-    "options_i": ["biased", "objective", "sensational"],
-    "options_ii": ["informative", "misleading", "entertaining"],
-    "answer_i": "biased",
-    "answer_ii": "informative",
-    "explanation": "Although it was 'biased', it still managed to be 'informative'."
-  },
-  {
-    "question": "Although often (i) ______ in conversation, she was known for her (ii) ______ in writing.",
-    "options_i": ["taciturn", "verbose", "irreverent"],
-    "options_ii": ["eloquence", "bluntness", "ambiguity"],
-    "answer_i": "taciturn",
-    "answer_ii": "eloquence",
-    "explanation": "A 'taciturn' (reserved) speaker but an 'eloquent' writer."
-  },
-  {
-    "question": "The philosopher's theories, though initially (i) ______, gained (ii) ______ over time.",
-    "options_i": ["esoteric", "widely-accepted", "refuted"],
-    "options_ii": ["prominence", "obscurity", "resistance"],
-    "answer_i": "esoteric",
-    "answer_ii": "prominence",
-    "explanation": "'Esoteric' (understood by few) theories became widely known—gained 'prominence'."
-  },
-  {
-    "question": "The manager's tone was (i) ______, yet the content of her message was surprisingly (ii) ______.",
-    "options_i": ["harsh", "gentle", "apathetic"],
-    "options_ii": ["reassuring", "critical", "ambiguous"],
-    "answer_i": "harsh",
-    "answer_ii": "reassuring",
-    "explanation": "A 'harsh' tone delivering a 'reassuring' message creates a contrast."
-  },
-  {
-    "question": "The team was initially (i) ______ about the new project but became (ii) ______ as progress was made.",
-    "options_i": ["excited", "skeptical", "confused"],
-    "options_ii": ["encouraged", "disillusioned", "apathetic"],
-    "answer_i": "skeptical",
-    "answer_ii": "encouraged",
-    "explanation": "From 'skeptical' to 'encouraged' as they saw positive results."
-  },
-  {
-    "question": "Although his stories were often (i) ______, they were also remarkably (ii) ______.",
-    "options_i": ["fanciful", "tedious", "mundane"],
-    "options_ii": ["engaging", "unbelievable", "dry"],
-    "answer_i": "fanciful",
-    "answer_ii": "engaging",
-    "explanation": "'Fanciful' (imaginative) but still 'engaging' stories."
-  },
-  {
-    "question": "The historian was (i) ______ in compiling sources, yet her conclusions were surprisingly (ii) ______.",
-    "options_i": ["meticulous", "careless", "disorganized"],
-    "options_ii": ["speculative", "accurate", "concise"],
-    "answer_i": "meticulous",
-    "answer_ii": "speculative",
-    "explanation": "Despite 'meticulous' research, her claims were 'speculative'."
-  },
-  {
-    "question": "His comments were both (i) ______ and (ii) ______, sparking outrage among the audience.",
-    "options_i": ["provocative", "harmless", "irreverent"],
-    "options_ii": ["inflammatory", "banal", "timid"],
-    "answer_i": "provocative",
-    "answer_ii": "inflammatory",
-    "explanation": "Both 'provocative' and 'inflammatory' comments are likely to offend."
-  },
-  {
-    "question": "Although the instructions were (i) ______, the students found them (ii) ______ to follow.",
-    "options_i": ["explicit", "incoherent", "detailed"],
-    "options_ii": ["difficult", "easy", "natural"],
-    "answer_i": "explicit",
-    "answer_ii": "difficult",
-    "explanation": "Even 'explicit' (clear) instructions can be 'difficult' due to complexity."
-  },
-  {
-    "question": "The detective remained (i) ______, even though the clues were (ii) ______.",
-    "options_i": ["puzzled", "confident", "skeptical"],
-    "options_ii": ["inconclusive", "revealing", "obvious"],
-    "answer_i": "confident",
-    "answer_ii": "inconclusive",
-    "explanation": "He was 'confident' despite the 'inconclusive' nature of the clues."
-  },
-  {
-    "question": "The committee's decision was (i) ______, causing a (ii) ______ among the members.",
-    "options_i": ["unanimous", "contentious", "impulsive"],
-    "options_ii": ["rift", "celebration", "consensus"],
-    "answer_i": "contentious",
-    "answer_ii": "rift",
-    "explanation": "'Contentious' (controversial) decisions often cause a 'rift'."
-  },
-  {
-    "question": "The architecture was (i) ______ in design but (ii) ______ in execution.",
-    "options_i": ["ambitious", "plain", "conventional"],
-    "options_ii": ["flawed", "perfect", "visionary"],
-    "answer_i": "ambitious",
-    "answer_ii": "flawed",
-    "explanation": "Great design ideas ('ambitious') poorly implemented ('flawed')."
-  },
-  {
-    "question": "The director’s approach was (i) ______; however, the outcome was surprisingly (ii) ______.",
-    "options_i": ["traditional", "experimental", "rigid"],
-    "options_ii": ["predictable", "successful", "chaotic"],
-    "answer_i": "experimental",
-    "answer_ii": "successful",
-    "explanation": "An 'experimental' approach leading to a 'successful' result."
-  },
-  {
-    "question": "Her writing style was (i) ______, but her arguments were (ii) ______.",
-    "options_i": ["ornate", "bland", "disjointed"],
-    "options_ii": ["logical", "unconvincing", "irrelevant"],
-    "answer_i": "ornate",
-    "answer_ii": "logical",
-    "explanation": "Though 'ornate' in style, the reasoning remained 'logical'."
-  },
-  {
-    "question": "The employee was often (i) ______, yet his performance was consistently (ii) ______.",
-    "options_i": ["late", "unmotivated", "irreverent"],
-    "options_ii": ["stellar", "mediocre", "erratic"],
-    "answer_i": "late",
-    "answer_ii": "stellar",
-    "explanation": "Despite being 'late', the employee was 'stellar' in performance."
-  },
-  {
-    "question": "Although (i) ______ by nature, she found public speaking surprisingly (ii) ______.",
-    "options_i": ["introverted", "outgoing", "shy"],
-    "options_ii": ["invigorating", "stressful", "tedious"],
-    "answer_i": "introverted",
-    "answer_ii": "invigorating",
-    "explanation": "An 'introverted' person feeling 'invigorated' by public speaking shows contrast."
-  },
-  {
-    "question": "His response was both (i) ______ and (ii) ______, leaving little room for discussion.",
-    "options_i": ["terse", "verbose", "neutral"],
-    "options_ii": ["decisive", "equivocal", "tentative"],
-    "answer_i": "terse",
-    "answer_ii": "decisive",
-    "explanation": "'Terse' and 'decisive' responses end conversations quickly."
-  },
-  {
-    "question": "The new policy was (i) ______ in theory but (ii) ______ in practice.",
-    "options_i": ["ideal", "flawed", "progressive"],
-    "options_ii": ["unworkable", "successful", "redundant"],
-    "answer_i": "ideal",
-    "answer_ii": "unworkable",
-    "explanation": "An 'ideal' theory turning out to be 'unworkable' in reality is common."
-  },
-  {
-    "question": "Though his appearance was (i) ______, his manners were surprisingly (ii) ______.",
-    "options_i": ["shabby", "elegant", "sloppy"],
-    "options_ii": ["refined", "crude", "aloof"],
-    "answer_i": "shabby",
-    "answer_ii": "refined",
-    "explanation": "Contrast between 'shabby' looks and 'refined' behavior."
-  },
-  {
-    "question": "The plan seemed (i) ______, yet its execution was completely (ii) ______.",
-    "options_i": ["feasible", "foolproof", "haphazard"],
-    "options_ii": ["chaotic", "organized", "faultless"],
-    "answer_i": "feasible",
-    "answer_ii": "chaotic",
-    "explanation": "It 'seemed feasible', but turned out 'chaotic' in execution."
-  }
+    {
+      "question": "The professor’s lectures were so (i) ______ that students often left class more confused than enlightened; her writing, however, was surprisingly (ii) ______.",
+      "options_i": ["abstruse", "lucid", "succinct"],
+      "options_ii": ["opaque", "clarifying", "convoluted"],
+      "answer_i": "abstruse",
+      "answer_ii": "clarifying",
+      "explanation": "'Abstruse' means difficult to understand, while 'clarifying' indicates the opposite."
+    },
+    {
+      "question": "Although the scientist was known for her (i) ______ approach to research, her latest theory was surprisingly (ii) ______.",
+      "options_i": ["methodical", "careless", "dogmatic"],
+      "options_ii": ["speculative", "empirical", "pedestrian"],
+      "answer_i": "methodical",
+      "answer_ii": "speculative",
+      "explanation": "The contrast lies between a 'methodical' past and a 'speculative' current theory."
+    },
+    {
+      "question": "The artist’s early works were (i) ______, but her recent exhibitions have been surprisingly (ii) ______.",
+      "options_i": ["derivative", "original", "inspired"],
+      "options_ii": ["hackneyed", "innovative", "tedious"],
+      "answer_i": "derivative",
+      "answer_ii": "innovative",
+      "explanation": "'Derivative' implies copying, while 'innovative' indicates originality."
+    },
+    {
+      "question": "Though initially (i) ______ by the unexpected announcement, she quickly regained her (ii) ______.",
+      "options_i": ["shaken", "elated", "indifferent"],
+      "options_ii": ["equanimity", "confusion", "despair"],
+      "answer_i": "shaken",
+      "answer_ii": "equanimity",
+      "explanation": "Being 'shaken' contrasts with regaining 'equanimity' (mental calmness)."
+    },
+    {
+      "question": "The diplomat’s comments, though seemingly (i) ______, were actually quite (ii) ______ when analyzed closely.",
+      "options_i": ["innocuous", "provocative", "blunt"],
+      "options_ii": ["incendiary", "banal", "genuine"],
+      "answer_i": "innocuous",
+      "answer_ii": "incendiary",
+      "explanation": "'Innocuous' means harmless, yet 'incendiary' implies inflammatory upon analysis."
+    },
+    {
+      "question": "The athlete’s performance was (i) ______ by his injury, yet his determination remained (ii) ______.",
+      "options_i": ["hampered", "exacerbated", "boosted"],
+      "options_ii": ["unwavering", "tentative", "fragile"],
+      "answer_i": "hampered",
+      "answer_ii": "unwavering",
+      "explanation": "Injury 'hampered' his performance, but his 'unwavering' determination persisted."
+    },
+    {
+      "question": "The scientist’s proposal was initially (i) ______, but after rigorous testing, it was considered (ii) ______.",
+      "options_i": ["dismissed", "celebrated", "verified"],
+      "options_ii": ["tenable", "untenable", "controversial"],
+      "answer_i": "dismissed",
+      "answer_ii": "tenable",
+      "explanation": "'Dismissed' initially, but later shown to be 'tenable' (defensible)."
+    },
+    {
+      "question": "The film's (i) ______ plot was made watchable only by the actors’ (ii) ______ performances.",
+      "options_i": ["hackneyed", "unpredictable", "inspired"],
+      "options_ii": ["mediocre", "compelling", "underwhelming"],
+      "answer_i": "hackneyed",
+      "answer_ii": "compelling",
+      "explanation": "A 'hackneyed' (overused) plot saved by 'compelling' acting."
+    },
+    {
+      "question": "Despite his (i) ______ exterior, he was known to be surprisingly (ii) ______.",
+      "options_i": ["stoic", "animated", "volatile"],
+      "options_ii": ["empathetic", "detached", "abrasive"],
+      "answer_i": "stoic",
+      "answer_ii": "empathetic",
+      "explanation": "'Stoic' refers to lack of emotion; 'empathetic' shows emotional depth."
+    },
+    {
+      "question": "Her argument was both (i) ______ and (ii) ______, leaving no room for rebuttal.",
+      "options_i": ["cogent", "ambiguous", "peripheral"],
+      "options_ii": ["persuasive", "tentative", "disjointed"],
+      "answer_i": "cogent",
+      "answer_ii": "persuasive",
+      "explanation": "A 'cogent' and 'persuasive' argument is logically convincing."
+    },
+    {
+      "question": "The manager's style was (i) ______, preferring consensus over command, but in crises, he became notably (ii) ______.",
+      "options_i": ["democratic", "autocratic", "passive"],
+      "options_ii": ["assertive", "disengaged", "indecisive"],
+      "answer_i": "democratic",
+      "answer_ii": "assertive",
+      "explanation": "A 'democratic' leader becoming 'assertive' during crises shows contrast."
+    },
+    {
+      "question": "Even the most (i) ______ critics found the director’s new film (ii) ______.",
+      "options_i": ["stringent", "indulgent", "candid"],
+      "options_ii": ["commendable", "derivative", "forgettable"],
+      "answer_i": "stringent",
+      "answer_ii": "commendable",
+      "explanation": "A tough ('stringent') critic praising something as 'commendable' is notable."
+    },
+    {
+      "question": "The town, once (i) ______ with activity, now lay (ii) ______ and abandoned.",
+      "options_i": ["teeming", "tranquil", "somnolent"],
+      "options_ii": ["desolate", "resplendent", "humming"],
+      "answer_i": "teeming",
+      "answer_ii": "desolate",
+      "explanation": "The contrast between 'teeming' and 'desolate' emphasizes decline."
+    },
+    {
+      "question": "The debate was marred by (i) ______ arguments and (ii) ______ evidence.",
+      "options_i": ["spurious", "coherent", "meticulous"],
+      "options_ii": ["tenuous", "robust", "copious"],
+      "answer_i": "spurious",
+      "answer_ii": "tenuous",
+      "explanation": "'Spurious' arguments backed by 'tenuous' (weak) evidence reflect poor reasoning."
+    },
+    {
+      "question": "His (i) ______ demeanor made him popular among students, but colleagues found his lack of (ii) ______ troubling.",
+      "options_i": ["amiable", "austere", "aloof"],
+      "options_ii": ["professionalism", "enthusiasm", "candor"],
+      "answer_i": "amiable",
+      "answer_ii": "professionalism",
+      "explanation": "'Amiable' (friendly) vs. lacking 'professionalism' shows differing perspectives."
+    },
+    {
+      "question": "Though the team had (i) ______ talent, their coordination was so poor that their overall performance was (ii) ______.",
+      "options_i": ["considerable", "mediocre", "insufficient"],
+      "options_ii": ["lackluster", "stellar", "impressive"],
+      "answer_i": "considerable",
+      "answer_ii": "lackluster",
+      "explanation": "A 'considerable' talent pool doesn't guarantee 'stellar' results."
+    },
+    {
+      "question": "The biography is both (i) ______ and (ii) ______, offering readers a vivid and accurate portrayal.",
+      "options_i": ["evocative", "hagiographic", "misleading"],
+      "options_ii": ["meticulous", "incomplete", "revisionist"],
+      "answer_i": "evocative",
+      "answer_ii": "meticulous",
+      "explanation": "'Evocative' and 'meticulous' suggest detailed and emotional writing."
+    },
+    {
+      "question": "Although known for her (i) ______ nature, her recent outburst was surprisingly (ii) ______.",
+      "options_i": ["placid", "volatile", "irate"],
+      "options_ii": ["intemperate", "composed", "restrained"],
+      "answer_i": "placid",
+      "answer_ii": "intemperate",
+      "explanation": "A 'placid' person acting 'intemperate' is a marked deviation."
+    },
+    {
+      "question": "The plan was initially (i) ______ by the board but later deemed (ii) ______ after further analysis.",
+      "options_i": ["endorsed", "rejected", "applauded"],
+      "options_ii": ["feasible", "untenable", "innovative"],
+      "answer_i": "rejected",
+      "answer_ii": "feasible",
+      "explanation": "'Rejected' first, then found 'feasible' (practical) later."
+    },
+    {
+      "question": "Despite the (i) ______ conditions, the hikers remained (ii) ______ in their resolve to reach the summit.",
+      "options_i": ["adverse", "ideal", "bucolic"],
+      "options_ii": ["steadfast", "tentative", "dubious"],
+      "answer_i": "adverse",
+      "answer_ii": "steadfast",
+      "explanation": "'Adverse' conditions met with 'steadfast' (firm) determination."
+    },
+    {
+      "question": "Though seemingly (i) ______, the remark was actually meant to be (ii) ______.",
+      "options_i": ["innocent", "malicious", "explicit"],
+      "options_ii": ["sarcastic", "benevolent", "obvious"],
+      "answer_i": "innocent",
+      "answer_ii": "sarcastic",
+      "explanation": "Something 'innocent' on the surface can hide 'sarcastic' intent."
+    },
+    {
+      "question": "The essay was (i) ______ in tone but (ii) ______ in argumentation, lacking any coherent logic.",
+      "options_i": ["elegant", "aggressive", "colloquial"],
+      "options_ii": ["disjointed", "incisive", "thorough"],
+      "answer_i": "elegant",
+      "answer_ii": "disjointed",
+      "explanation": "An 'elegant' tone doesn't save a 'disjointed' (poorly structured) argument."
+    },
+    {
+      "question": "The book’s popularity is largely due to its (i) ______ narrative style and (ii) ______ characters.",
+      "options_i": ["engaging", "pedestrian", "esoteric"],
+      "options_ii": ["relatable", "unrealistic", "anachronistic"],
+      "answer_i": "engaging",
+      "answer_ii": "relatable",
+      "explanation": "'Engaging' writing and 'relatable' characters attract readers."
+    },
+    {
+      "question": "The speaker’s message was (i) ______ but delivered in such a (ii) ______ manner that many in the audience missed the point.",
+      "options_i": ["profound", "banal", "trivial"],
+      "options_ii": ["monotonous", "dynamic", "coherent"],
+      "answer_i": "profound",
+      "answer_ii": "monotonous",
+      "explanation": "A 'profound' message can be lost if spoken 'monotonously'."
+    },
+    {
+      "question": "Despite the (i) ______ nature of the evidence, the jury found the defendant (ii) ______.",
+      "options_i": ["compelling", "circumstantial", "overwhelming"],
+      "options_ii": ["guilty", "innocent", "culpable"],
+      "answer_i": "circumstantial",
+      "answer_ii": "guilty",
+      "explanation": "Even though the evidence was 'circumstantial' (indirect), the jury concluded the defendant was 'guilty'."
+    },
+    {
+      "question": "The scientist's theory was initially (i) ______ by peers, but subsequent experiments provided (ii) ______ support.",
+      "options_i": ["lauded", "dismissed", "ignored"],
+      "options_ii": ["empirical", "anecdotal", "tenuous"],
+      "answer_i": "dismissed",
+      "answer_ii": "empirical",
+      "explanation": "The theory was first 'dismissed' but later gained 'empirical' (observable) support."
+    },
+    {
+      "question": "Her (i) ______ demeanor often masked a (ii) ______ intellect.",
+      "options_i": ["gregarious", "stoic", "melancholic"],
+      "options_ii": ["keen", "dull", "superficial"],
+      "answer_i": "stoic",
+      "answer_ii": "keen",
+      "explanation": "A 'stoic' (unemotional) demeanor hiding a 'keen' (sharp) intellect."
+    },
+    {
+      "question": "The novel's plot was (i) ______, yet its character development was remarkably (ii) ______.",
+      "options_i": ["predictable", "convoluted", "innovative"],
+      "options_ii": ["flat", "nuanced", "superficial"],
+      "answer_i": "predictable",
+      "answer_ii": "nuanced",
+      "explanation": "While the plot was 'predictable', the characters were 'nuanced' (subtly complex)."
+    },
+    {
+      "question": "Though the artist's early works were (i) ______, his later pieces showed a (ii) ______ evolution.",
+      "options_i": ["derivative", "original", "uninspired"],
+      "options_ii": ["radical", "stagnant", "subtle"],
+      "answer_i": "derivative",
+      "answer_ii": "radical",
+      "explanation": "From 'derivative' (imitative) beginnings to a 'radical' (significant) change."
+    },
+    {
+      "question": "The politician's speech was filled with (i) ______ promises, leaving the audience (ii) ______.",
+      "options_i": ["vague", "concrete", "ambitious"],
+      "options_ii": ["inspired", "skeptical", "apathetic"],
+      "answer_i": "vague",
+      "answer_ii": "skeptical",
+      "explanation": "'Vague' promises led to a 'skeptical' (doubtful) audience."
+    },
+    {
+      "question": "While the experiment's results were (i) ______, the methodology was considered (ii) ______.",
+      "options_i": ["conclusive", "ambiguous", "promising"],
+      "options_ii": ["rigorous", "flawed", "innovative"],
+      "answer_i": "promising",
+      "answer_ii": "flawed",
+      "explanation": "Results were 'promising', but the methodology had 'flawed' (defective) aspects."
+    },
+    {
+      "question": "The CEO's decision was both (i) ______ and (ii) ______, surprising the entire board.",
+      "options_i": ["prudent", "impulsive", "calculated"],
+      "options_ii": ["unprecedented", "predictable", "conventional"],
+      "answer_i": "impulsive",
+      "answer_ii": "unprecedented",
+      "explanation": "An 'impulsive' and 'unprecedented' (never done before) decision."
+    },
+    {
+      "question": "The documentary was (i) ______ in its portrayal of events, yet it managed to be (ii) ______.",
+      "options_i": ["biased", "objective", "sensational"],
+      "options_ii": ["informative", "misleading", "entertaining"],
+      "answer_i": "biased",
+      "answer_ii": "informative",
+      "explanation": "Although it was 'biased', it still managed to be 'informative'."
+    },
+    {
+      "question": "Although often (i) ______ in conversation, she was known for her (ii) ______ in writing.",
+      "options_i": ["taciturn", "verbose", "irreverent"],
+      "options_ii": ["eloquence", "bluntness", "ambiguity"],
+      "answer_i": "taciturn",
+      "answer_ii": "eloquence",
+      "explanation": "A 'taciturn' (reserved) speaker but an 'eloquent' writer."
+    },
+    {
+      "question": "The philosopher's theories, though initially (i) ______, gained (ii) ______ over time.",
+      "options_i": ["esoteric", "widely-accepted", "refuted"],
+      "options_ii": ["prominence", "obscurity", "resistance"],
+      "answer_i": "esoteric",
+      "answer_ii": "prominence",
+      "explanation": "'Esoteric' (understood by few) theories became widely known—gained 'prominence'."
+    },
+    {
+      "question": "The manager's tone was (i) ______, yet the content of her message was surprisingly (ii) ______.",
+      "options_i": ["harsh", "gentle", "apathetic"],
+      "options_ii": ["reassuring", "critical", "ambiguous"],
+      "answer_i": "harsh",
+      "answer_ii": "reassuring",
+      "explanation": "A 'harsh' tone delivering a 'reassuring' message creates a contrast."
+    },
+    {
+      "question": "The team was initially (i) ______ about the new project but became (ii) ______ as progress was made.",
+      "options_i": ["excited", "skeptical", "confused"],
+      "options_ii": ["encouraged", "disillusioned", "apathetic"],
+      "answer_i": "skeptical",
+      "answer_ii": "encouraged",
+      "explanation": "From 'skeptical' to 'encouraged' as they saw positive results."
+    },
+    {
+      "question": "Although his stories were often (i) ______, they were also remarkably (ii) ______.",
+      "options_i": ["fanciful", "tedious", "mundane"],
+      "options_ii": ["engaging", "unbelievable", "dry"],
+      "answer_i": "fanciful",
+      "answer_ii": "engaging",
+      "explanation": "'Fanciful' (imaginative) but still 'engaging' stories."
+    },
+    {
+      "question": "The historian was (i) ______ in compiling sources, yet her conclusions were surprisingly (ii) ______.",
+      "options_i": ["meticulous", "careless", "disorganized"],
+      "options_ii": ["speculative", "accurate", "concise"],
+      "answer_i": "meticulous",
+      "answer_ii": "speculative",
+      "explanation": "Despite 'meticulous' research, her claims were 'speculative'."
+    },
+    {
+      "question": "His comments were both (i) ______ and (ii) ______, sparking outrage among the audience.",
+      "options_i": ["provocative", "harmless", "irreverent"],
+      "options_ii": ["inflammatory", "banal", "timid"],
+      "answer_i": "provocative",
+      "answer_ii": "inflammatory",
+      "explanation": "Both 'provocative' and 'inflammatory' comments are likely to offend."
+    },
+    {
+      "question": "Although the instructions were (i) ______, the students found them (ii) ______ to follow.",
+      "options_i": ["explicit", "incoherent", "detailed"],
+      "options_ii": ["difficult", "easy", "natural"],
+      "answer_i": "explicit",
+      "answer_ii": "difficult",
+      "explanation": "Even 'explicit' (clear) instructions can be 'difficult' due to complexity."
+    },
+    {
+      "question": "The detective remained (i) ______, even though the clues were (ii) ______.",
+      "options_i": ["puzzled", "confident", "skeptical"],
+      "options_ii": ["inconclusive", "revealing", "obvious"],
+      "answer_i": "confident",
+      "answer_ii": "inconclusive",
+      "explanation": "He was 'confident' despite the 'inconclusive' nature of the clues."
+    },
+    {
+      "question": "The committee's decision was (i) ______, causing a (ii) ______ among the members.",
+      "options_i": ["unanimous", "contentious", "impulsive"],
+      "options_ii": ["rift", "celebration", "consensus"],
+      "answer_i": "contentious",
+      "answer_ii": "rift",
+      "explanation": "'Contentious' (controversial) decisions often cause a 'rift'."
+    },
+    {
+      "question": "The architecture was (i) ______ in design but (ii) ______ in execution.",
+      "options_i": ["ambitious", "plain", "conventional"],
+      "options_ii": ["flawed", "perfect", "visionary"],
+      "answer_i": "ambitious",
+      "answer_ii": "flawed",
+      "explanation": "Great design ideas ('ambitious') poorly implemented ('flawed')."
+    },
+    {
+      "question": "The director’s approach was (i) ______; however, the outcome was surprisingly (ii) ______.",
+      "options_i": ["traditional", "experimental", "rigid"],
+      "options_ii": ["predictable", "successful", "chaotic"],
+      "answer_i": "experimental",
+      "answer_ii": "successful",
+      "explanation": "An 'experimental' approach leading to a 'successful' result."
+    },
+    {
+      "question": "Her writing style was (i) ______, but her arguments were (ii) ______.",
+      "options_i": ["ornate", "bland", "disjointed"],
+      "options_ii": ["logical", "unconvincing", "irrelevant"],
+      "answer_i": "ornate",
+      "answer_ii": "logical",
+      "explanation": "Though 'ornate' in style, the reasoning remained 'logical'."
+    },
+    {
+      "question": "The employee was often (i) ______, yet his performance was consistently (ii) ______.",
+      "options_i": ["late", "unmotivated", "irreverent"],
+      "options_ii": ["stellar", "mediocre", "erratic"],
+      "answer_i": "late",
+      "answer_ii": "stellar",
+      "explanation": "Despite being 'late', the employee was 'stellar' in performance."
+    }
 ]
 }
-
-  
-
-
