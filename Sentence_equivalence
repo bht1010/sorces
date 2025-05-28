@@ -1,0 +1,154 @@
+{
+  "questions": [
+    {
+      "question": "Although the professor was usually quite ____, her lecture today was surprisingly passionate and animated.",
+      "options": ["apathetic", "reserved", "boisterous", "indifferent", "dispassionate", "vociferous"],
+      "correct_answers": ["reserved", "dispassionate"],
+      "explanation": "The sentence contrasts the professor's usual demeanor with today's passionate lecture. 'Reserved' and 'dispassionate' both describe a restrained or unemotional demeanor, fitting the contrast."
+    },
+    {
+      "question": "The mayor’s decision was considered ______; it reflected a careful balance of competing interests.",
+      "options": ["hasty", "judicious", "impetuous", "prudent", "rash", "reckless"],
+      "correct_answers": ["judicious", "prudent"],
+      "explanation": "The decision is described as reflecting a careful balance, suggesting it was wise and thoughtful. 'Judicious' and 'prudent' both convey this meaning."
+    },
+    {
+      "question": "The artist’s early work was ______, lacking the bold experimentation that would later define her style.",
+      "options": ["innovative", "derivative", "conventional", "groundbreaking", "unoriginal", "radical"],
+      "correct_answers": ["derivative", "conventional"],
+      "explanation": "The sentence contrasts the early work with later bold experimentation. 'Derivative' and 'conventional' both imply a lack of originality."
+    },
+    {
+      "question": "The CEO’s ______ response to the crisis reassured investors and stabilized the company’s stock price.",
+      "options": ["panicked", "measured", "hasty", "calculated", "reckless", "deliberate"],
+      "correct_answers": ["measured", "deliberate"],
+      "explanation": "The response had a positive effect, suggesting it was careful and thoughtful. 'Measured' and 'deliberate' both fit this context."
+    },
+    {
+      "question": "The novel’s protagonist is ______, constantly questioning the moral assumptions of those around her.",
+      "options": ["dogmatic", "skeptical", "credulous", "cynical", "naive", "gullible"],
+      "correct_answers": ["skeptical", "cynical"],
+      "explanation": "The protagonist questions moral assumptions, implying distrust. 'Skeptical' and 'cynical' both convey this attitude."
+    },
+    {
+      "question": "The diplomat’s ______ remarks helped to defuse tensions between the two nations.",
+      "options": ["inflammatory", "conciliatory", "provocative", "pacific", "hostile", "antagonistic"],
+      "correct_answers": ["conciliatory", "pacific"],
+      "explanation": "The remarks reduced tensions, suggesting a peacemaking tone. 'Conciliatory' and 'pacific' both mean peace-promoting."
+    },
+    {
+      "question": "The scientist’s theory was initially met with ______, but later evidence confirmed its validity.",
+      "options": ["approval", "skepticism", "endorsement", "doubt", "acceptance", "credulity"],
+      "correct_answers": ["skepticism", "doubt"],
+      "explanation": "The theory was later confirmed, implying it was initially doubted. 'Skepticism' and 'doubt' are synonymous in this context."
+    },
+    {
+      "question": "The mountain climber’s ______ ascent in bad weather demonstrated her extraordinary skill and courage.",
+      "options": ["cautious", "audacious", "reckless", "daring", "timid", "prudent"],
+      "correct_answers": ["audacious", "daring"],
+      "explanation": "The ascent required skill and courage, suggesting boldness. 'Audacious' and 'daring' both convey this meaning."
+    },
+    {
+      "question": "The jury found the defendant’s testimony ______, as it was full of inconsistencies.",
+      "options": ["credible", "implausible", "persuasive", "unconvincing", "believable", "authentic"],
+      "correct_answers": ["implausible", "unconvincing"],
+      "explanation": "The testimony had inconsistencies, making it unreliable. 'Implausible' and 'unconvincing' both mean not believable."
+    },
+    {
+      "question": "The orchestra’s performance was ______, leaving the audience in awe of its precision and emotion.",
+      "options": ["mediocre", "flawless", "unremarkable", "exquisite", "ordinary", "pedestrian"],
+      "correct_answers": ["flawless", "exquisite"],
+      "explanation": "The audience was in awe, suggesting an outstanding performance. 'Flawless' and 'exquisite' both imply perfection."
+    },
+    {
+      "question": "The detective’s ______ approach to the case ensured that no detail was overlooked.",
+      "options": ["negligent", "meticulous", "careless", "thorough", "sloppy", "perfunctory"],
+      "correct_answers": ["meticulous", "thorough"],
+      "explanation": "No detail was overlooked, implying extreme care. 'Meticulous' and 'thorough' both describe this attentiveness."
+    },
+    {
+      "question": "The politician’s ______ speech failed to inspire the voters, who were looking for bold ideas.",
+      "options": ["rousing", "lackluster", "inspiring", "uninspired", "electrifying", "tepid"],
+      "correct_answers": ["lackluster", "uninspired"],
+      "explanation": "The speech didn’t inspire, suggesting it was dull. 'Lackluster' and 'uninspired' both convey this meaning."
+    },
+    {
+      "question": "The CEO was known for her ______ leadership, always considering the long-term impact of her decisions.",
+      "options": ["shortsighted", "visionary", "myopic", "strategic", "impulsive", "reckless"],
+      "correct_answers": ["visionary", "strategic"],
+      "explanation": "The CEO considered long-term impact, implying foresight. 'Visionary' and 'strategic' both fit this context."
+    },
+    {
+      "question": "The author’s ______ writing style made even complex topics accessible to general readers.",
+      "options": ["opaque", "lucid", "clear", "abstruse", "cryptic", "convoluted"],
+      "correct_answers": ["lucid", "clear"],
+      "explanation": "Complex topics were made accessible, suggesting clarity. 'Lucid' and 'clear' both mean easy to understand."
+    },
+    {
+      "question": "The team’s ______ effort led to a disappointing result, despite their high expectations.",
+      "options": ["halfhearted", "diligent", "lackadaisical", "earnest", "sluggish", "vigorous"],
+      "correct_answers": ["halfhearted", "lackadaisical"],
+      "explanation": "The result was disappointing, implying low effort. 'Halfhearted' and 'lackadaisical' both suggest minimal effort."
+    },
+{
+    "question": "Although the professor was usually quite ____, her lecture today was surprisingly passionate and animated.",
+    "options": ["apathetic", "reserved", "boisterous", "indifferent", "dispassionate", "vociferous"],
+    "correct_answers": ["reserved", "dispassionate"],
+    "explanation": "The sentence contrasts the professor's usual demeanor with today's passionate lecture. 'Reserved' and 'dispassionate' both describe a restrained or unemotional demeanor, fitting the contrast."
+  },
+  {
+    "question": "The mayor’s decision was considered ______; it reflected a careful balance of competing interests.",
+    "options": ["hasty", "judicious", "impetuous", "prudent", "rash", "reckless"],
+    "correct_answers": ["judicious", "prudent"],
+    "explanation": "The decision is described as reflecting a careful balance, suggesting it was wise and thoughtful. 'Judicious' and 'prudent' both convey this meaning."
+  },
+  {
+    "question": "While in many ways their personalities could not have been more different—she was ebullient where he was glum, relaxed where he was awkward, garrulous where he was ______—they were surprisingly well suited.",
+    "options": ["solicitous", "munificent", "irresolute", "laconic", "fastidious", "taciturn"],
+    "correct_answers": ["laconic", "taciturn"],
+    "explanation": "The sentence contrasts 'garrulous' (talkative) with its opposite. 'Laconic' and 'taciturn' both mean reserved or uncommunicative."
+  },
+  {
+    "question": "Manga—illustrated Japanese books that are read from right to left—are beginning to win fans, ______ the enormous success of anime films such as Miyazaki’s breathtaking 'Spirited Away'.",
+    "options": ["bringing about", "buoyed by", "contrasted with", "helped by", "independent of", "leading to"],
+    "correct_answers": ["buoyed by", "helped by"],
+    "explanation": "The success of anime films is aiding the popularity of manga. 'Buoyed by' and 'helped by' both indicate support or assistance."
+  },
+  {
+    "question": "Although the Industrial Revolution brought about a raft of new techniques in machine design, the methods used for the printing and binding of books continued ______ till the early years of the 20th century.",
+    "options": ["intermittently", "improving", "transforming", "unchanged", "advancing", "unmodified"],
+    "correct_answers": ["unchanged", "unmodified"],
+    "explanation": "The sentence suggests that printing and binding methods did not change. 'Unchanged' and 'unmodified' both convey this idea."
+  },
+  {
+    "question": "Many people erroneously believe that humans are naturally ______ to distrust or even fear those outside of their social or cultural group; anthropologists and social scientists, however, have consistently shown that xenophobia is a learned behavior.",
+    "options": ["indoctrinated", "proven", "prone", "disposed", "taught", "compelled"],
+    "correct_answers": ["prone", "disposed"],
+    "explanation": "The belief is that humans are naturally inclined to distrust outsiders. 'Prone' and 'disposed' both suggest a natural tendency."
+  },
+  {
+    "question": "By framing the new law as a question of urgent safety rather than of privacy, the government obviated the need to pass through the standard channels of legislation, effectively ______ all formal dissent and relegating any would-be naysayer from a position of engaged activist to that of powerless bystander.",
+    "options": ["curtailing", "undermining", "targeting", "lobbying", "instigating", "facilitating"],
+    "correct_answers": ["curtailing", "undermining"],
+    "explanation": "The government bypassed standard procedures, reducing the impact of dissent. 'Curtailing' and 'undermining' both imply diminishing or weakening."
+  },
+  {
+    "question": "Isherwood’s sympathy for communism during the interwar period was not only a reaction against fascism, but also a mark of his fellow feeling for the laboring classes and his ______ to engage as an equal with working people.",
+    "options": ["disinclination", "hankering", "proclivity", "implacability", "unwillingness", "joviality"],
+    "correct_answers": ["hankering", "proclivity"],
+    "explanation": "Isherwood's sympathy indicates a desire or tendency to engage with working people. 'Hankering' and 'proclivity' both suggest a strong inclination."
+  },
+  {
+    "question": "The scientist's theory was initially met with ______, but over time, as evidence mounted, it gained widespread acceptance.",
+    "options": ["acclaim", "derision", "approval", "scorn", "praise", "ridicule"],
+    "correct_answers": ["derision", "ridicule"],
+    "explanation": "The theory was initially met with negative reactions. 'Derision' and 'ridicule' both mean mockery or scorn."
+  },
+  {
+    "question": "Despite the company's public statements, the CEO's actions were ______, suggesting a hidden agenda.",
+    "options": ["transparent", "duplicitous", "honest", "deceitful", "forthright", "candid"],
+    "correct_answers": ["duplicitous", "deceitful"],
+    "explanation": "The CEO's actions suggest dishonesty. 'Duplicitous' and 'deceitful' both imply deceptive behavior."
+  }
+  ]
+}
