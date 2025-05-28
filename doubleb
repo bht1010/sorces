@@ -16,6 +16,174 @@
       "answer_ii": "mute",
       "explanation": "'Florid' (ornate) rhetoric contrasts with being 'mute' (silent) on substance."
     },
+{
+    "question": "The scientist's (i) ______ approach to experimentation often led to (ii) ______ results that challenged established theories.",
+    "options_i": ["methodical", "intuitive", "haphazard"],
+    "options_ii": ["anomalous", "predictable", "conclusive"],
+    "answer_i": "intuitive",
+    "answer_ii": "anomalous",
+    "explanation": "An 'intuitive' approach may yield 'anomalous' results that defy expectations."
+  },
+  {
+    "question": "Despite the (i) ______ nature of the evidence, the jury reached a (ii) ______ verdict.",
+    "options_i": ["compelling", "circumstantial", "incontrovertible"],
+    "options_ii": ["unanimous", "tentative", "controversial"],
+    "answer_i": "circumstantial",
+    "answer_ii": "unanimous",
+    "explanation": "'Circumstantial' evidence can still lead to a 'unanimous' decision if deemed sufficient."
+  },
+  {
+    "question": "The author's (i) ______ prose style, while admired by some, was considered (ii) ______ by others.",
+    "options_i": ["succinct", "florid", "pedestrian"],
+    "options_ii": ["innovative", "overwrought", "refreshing"],
+    "answer_i": "florid",
+    "answer_ii": "overwrought",
+    "explanation": "'Florid' writing can be seen as 'overwrought' or excessively elaborate."
+  },
+  {
+    "question": "The diplomat's (i) ______ remarks were intended to (ii) ______ tensions between the two nations.",
+    "options_i": ["provocative", "conciliatory", "ambiguous"],
+    "options_ii": ["escalate", "defuse", "ignore"],
+    "answer_i": "conciliatory",
+    "answer_ii": "defuse",
+    "explanation": "'Conciliatory' comments aim to 'defuse' or lessen tensions."
+  },
+  {
+    "question": "Her (i) ______ commitment to the cause made her a (ii) ______ figure among activists.",
+    "options_i": ["lukewarm", "steadfast", "sporadic"],
+    "options_ii": ["polarizing", "revered", "marginal"],
+    "answer_i": "steadfast",
+    "answer_ii": "revered",
+    "explanation": "A 'steadfast' commitment often leads to being 'revered' by peers."
+  },
+  {
+    "question": "The CEO's (i) ______ response to the crisis was seen as (ii) ______ by stakeholders.",
+    "options_i": ["measured", "hasty", "indifferent"],
+    "options_ii": ["reassuring", "alarming", "negligent"],
+    "answer_i": "measured",
+    "answer_ii": "reassuring",
+    "explanation": "A 'measured' approach is typically 'reassuring' in times of crisis."
+  },
+  {
+    "question": "The novel's (i) ______ narrative structure made it both (ii) ______ and challenging.",
+    "options_i": ["linear", "nonlinear", "conventional"],
+    "options_ii": ["engaging", "confusing", "predictable"],
+    "answer_i": "nonlinear",
+    "answer_ii": "engaging",
+    "explanation": "A 'nonlinear' structure can be 'engaging' despite its complexity."
+  },
+  {
+    "question": "Although the theory was initially (i) ______, subsequent research provided (ii) ______ support.",
+    "options_i": ["dismissed", "celebrated", "ignored"],
+    "options_ii": ["empirical", "anecdotal", "scant"],
+    "answer_i": "dismissed",
+    "answer_ii": "empirical",
+    "explanation": "A theory once 'dismissed' can gain 'empirical' backing over time."
+  },
+  {
+    "question": "The artist's (i) ______ use of color gave the painting a (ii) ______ quality.",
+    "options_i": ["subtle", "vibrant", "monochromatic"],
+    "options_ii": ["dynamic", "muted", "static"],
+    "answer_i": "vibrant",
+    "answer_ii": "dynamic",
+    "explanation": "'Vibrant' colors contribute to a 'dynamic' visual effect."
+  },
+  {
+    "question": "The professor's lectures were both (i) ______ and (ii) ______, leaving students inspired.",
+    "options_i": ["tedious", "insightful", "monotonous"],
+    "options_ii": ["engaging", "perplexing", "uninspiring"],
+    "answer_i": "insightful",
+    "answer_ii": "engaging",
+    "explanation": "'Insightful' and 'engaging' lectures tend to inspire students."
+  },
+  {
+    "question": "The company's (i) ______ strategy led to (ii) ______ growth in the first quarter.",
+    "options_i": ["aggressive", "conservative", "erratic"],
+    "options_ii": ["substantial", "negligible", "declining"],
+    "answer_i": "aggressive",
+    "answer_ii": "substantial",
+    "explanation": "An 'aggressive' strategy can result in 'substantial' growth."
+  },
+  {
+    "question": "Her (i) ______ demeanor masked a (ii) ______ determination to succeed.",
+    "options_i": ["placid", "boisterous", "aloof"],
+    "options_ii": ["fierce", "tepid", "indifferent"],
+    "answer_i": "placid",
+    "answer_ii": "fierce",
+    "explanation": "A 'placid' exterior can conceal 'fierce' inner resolve."
+  },
+  {
+    "question": "The policy's (i) ______ language led to (ii) ______ interpretations among officials.",
+    "options_i": ["ambiguous", "explicit", "concise"],
+    "options_ii": ["uniform", "divergent", "consistent"],
+    "answer_i": "ambiguous",
+    "answer_ii": "divergent",
+    "explanation": "'Ambiguous' wording often results in 'divergent' understandings."
+  },
+  {
+    "question": "The scientist's (i) ______ findings were met with (ii) ______ by the academic community.",
+    "options_i": ["groundbreaking", "redundant", "inconsequential"],
+    "options_ii": ["acclaim", "skepticism", "indifference"],
+    "answer_i": "groundbreaking",
+    "answer_ii": "acclaim",
+    "explanation": "'Groundbreaking' discoveries typically garner 'acclaim'."
+  },
+  {
+    "question": "The film's (i) ______ pacing and (ii) ______ plot left audiences disengaged.",
+    "options_i": ["brisk", "lethargic", "steady"],
+    "options_ii": ["compelling", "convoluted", "predictable"],
+    "answer_i": "lethargic",
+    "answer_ii": "convoluted",
+    "explanation": "'Lethargic' pacing combined with a 'convoluted' plot can disengage viewers."
+  },
+  {
+    "question": "His (i) ______ attitude towards the project resulted in a (ii) ______ outcome.",
+    "options_i": ["apathetic", "enthusiastic", "meticulous"],
+    "options_ii": ["successful", "lackluster", "exceptional"],
+    "answer_i": "apathetic",
+    "answer_ii": "lackluster",
+    "explanation": "An 'apathetic' approach often leads to 'lackluster' results."
+  },
+  {
+    "question": "The novel's (i) ______ themes and (ii) ______ characters resonated with readers.",
+    "options_i": ["universal", "obscure", "controversial"],
+    "options_ii": ["relatable", "one-dimensional", "enigmatic"],
+    "answer_i": "universal",
+    "answer_ii": "relatable",
+    "explanation": "'Universal' themes and 'relatable' characters appeal to a broad audience."
+  },
+  {
+    "question": "The manager's (i) ______ leadership style fostered a (ii) ______ work environment.",
+    "options_i": ["authoritarian", "collaborative", "indifferent"],
+    "options_ii": ["toxic", "productive", "chaotic"],
+    "answer_i": "collaborative",
+    "answer_ii": "productive",
+    "explanation": "A 'collaborative' leader often creates a 'productive' workplace."
+  },
+  {
+    "question": "The research was (i) ______ due to its (ii) ______ methodology.",
+    "options_i": ["lauded", "criticized", "ignored"],
+    "options_ii": ["rigorous", "flawed", "innovative"],
+    "answer_i": "criticized",
+    "answer_ii": "flawed",
+    "explanation": "Research with a 'flawed' methodology is typically 'criticized'."
+  },
+  {
+    "question": "The speaker's (i) ______ delivery and (ii) ______ arguments failed to persuade the audience.",
+    "options_i": ["dynamic", "monotone", "animated"],
+    "options_ii": ["compelling", "weak", "coherent"],
+    "answer_i": "monotone",
+    "answer_ii": "weak",
+    "explanation": "A 'monotone' delivery coupled with 'weak' arguments is unconvincing."
+  },
+  {
+    "question": "The company's (i) ______ policies led to a (ii) ______ in employee morale.",
+    "options_i": ["progressive", "draconian", "lenient"],
+    "options_ii": ["boost", "decline", "stagnation"],
+    "answer_i": "draconian",
+    "answer_ii": "decline",
+    "explanation": "'Draconian' policies often cause a 'decline' in morale."
+  },
     {
       "question": "The artist's (i) ______ style evolved from her (ii) ______ study of classical techniques.",
       "options_i": ["avant-garde", "hackneyed", "derivative"],
