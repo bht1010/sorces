@@ -1,5 +1,21 @@
 {
   "double_blank_questions": [
+{
+    "question": "While the reform was initially celebrated as (i) ______, its long-term effects proved (ii) ______ to the most vulnerable populations.",
+    "options_i": ["transformative", "symbolic", "inconsequential"],
+    "options_ii": ["beneficial", "detrimental", "imperceptible"],
+    "answer_i": "transformative",
+    "answer_ii": "detrimental",
+    "explanation": "Although the reform appeared 'transformative' at first, it turned out to be 'detrimental' to those it was supposed to help."
+  },
+  {
+    "question": "His argument was both (i) ______ and (ii) ______, managing to sway even the most skeptical members of the audience.",
+    "options_i": ["specious", "cogent", "esoteric"],
+    "options_ii": ["persuasive", "ambiguous", "verbose"],
+    "answer_i": "cogent",
+    "answer_ii": "persuasive",
+    "explanation": "A 'cogent' (clear and logical) argument that is also 'persuasive' has the power to change minds."
+  },
     {
       "question": "The scientist's (i) ______ methods, though initially regarded as (ii) ______, ultimately yielded groundbreaking results.",
       "options_i": ["unorthodox", "conventional", "derivative"],
@@ -159,6 +175,22 @@
     "answer_i": "collaborative",
     "answer_ii": "productive",
     "explanation": "A 'collaborative' leader often creates a 'productive' workplace."
+  },
+{
+    "question": "The CEO's remarks, though seemingly (i) ______, were in fact carefully (ii) ______ to deflect blame from upper management.",
+    "options_i": ["impromptu", "banal", "strategic"],
+    "options_ii": ["crafted", "ignored", "garbled"],
+    "answer_i": "impromptu",
+    "answer_ii": "crafted",
+    "explanation": "'Impromptu' means unplanned, from Latin *in-* (not) + *promptus* (ready). Though the speech appeared spontaneous, it was in fact 'crafted'—deliberately constructed to manipulate perception."
+  },
+  {
+    "question": "Although the physicist’s theory was initially deemed (i) ______ by her contemporaries, later discoveries (ii) ______ its validity.",
+    "options_i": ["preposterous", "unassailable", "inconsequential"],
+    "options_ii": ["affirmed", "nullified", "obscured"],
+    "answer_i": "preposterous",
+    "answer_ii": "affirmed",
+    "explanation": "'Preposterous' comes from Latin *praeposterus* (reversed order), suggesting something absurd. Her theory, once considered absurd, was later 'affirmed' by new evidence."
   },
   {
     "question": "The research was (i) ______ due to its (ii) ______ methodology.",
